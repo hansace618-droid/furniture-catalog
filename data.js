@@ -847,6 +847,696 @@ const CATALOG_DATA = {
           "tags": "#LacquerFurniture #GiltFurniture #ChinoiserieDecor #VintageObject #HomeDesign"
         }
       ]
+    },
+    {
+      "model": "LD-1403-0956",
+      "image": "images/LD-1403-0956.jpg",
+      "product_name": "红金山水鎏金顶饰方漆箱",
+      "copies": [
+        {
+          "copy_cn": "红金国风鎏金山水珍藏漆箱\n故宫红漆面，描金东方山水楼阁，浮雕鎏金顶盖，鎏金雕花包边，既是首饰收纳，亦是桌面艺术摆件✨",
+          "copy_en": "Red‑Gilded Chinoiserie Lacquer Treasure Casket\nPalace‑red lacquer with gilded oriental landscape, ornate gilded finial lid, carved gilded trim. Jewelry storage & decorative tabletop accent✨",
+          "tags": "#ChinoiserieDecor #LacquerBox #GildedHome #VintageDecor #AntiqueStyle"
+        },
+        {
+          "copy_cn": "法式中国风红金彩绘收纳宝盒\n复古红漆描金山水，立体鎏金顶盖装饰，精致鎏金边框珠脚，玄关梳妆台软装陈设🏮",
+          "copy_en": "Chinoiserie Red‑Gilded Painted Decorative Storage Box\nVintage red lacquer gilded landscape, sculptural gilded lid finial, detailed gilded trim & ball feet. Perfect decor for entry & vanity🏮",
+          "tags": "#ChinoiserieStyle #DecorativeBox #OldWorldCharm #TabletopDecor #LuxuryHome"
+        },
+        {
+          "copy_cn": "复古红漆鎏金山水收藏漆箱✨\n浓烈红金配色，盒身手绘亭台山水，浮雕宝顶，鎏金构件细节拉满，收纳小件藏品氛围感好物",
+          "copy_en": "Vintage Red Lacquer Gilded‑Landscape Collectible Casket ✨\nStriking red‑gold palette, hand‑painted pavilion‑mountain scenes, sculpted finial lid, exquisite gilded details. Vibe‑boosting storage for small treasures.",
+          "tags": "#VintageBox #GiltDecor #StatementDecor #HomeStyling #DecorInspo"
+        },
+        {
+          "copy_cn": "大宅桌面陈设｜红金浮雕顶盖漆箱\n复刻西洋古董Chinoiserie，正红漆地描金山水，华丽鎏金顶盖，鎏金包边圆脚，摆置即提升空间贵气",
+          "copy_en": "Mansion Tabletop Accent Red‑Gilded Relief‑Lid Lacquer Casket\nWestern antique Chinoiserie reproduction, red lacquer with gilded landscape, ornate gilded lid, gilded trim & ball feet. Instantly elevate home luxury.",
+          "tags": "#MansionDecor #LacquerFurniture #OrnateDecor #VintageVibes #AccentPiece"
+        },
+        {
+          "copy_cn": "红金东方美学宝盒🏮鎏金顶盖彩绘漆箱\n红底黑绘山水景致，全套鎏金雕花装饰，球形支脚，收纳首饰、零碎，古典软装点睛单品",
+          "copy_en": "Red‑Gold Oriental‑Aesthetic Gilded‑Lid Painted Lacquer Box 🏮\nRed base with black landscape motifs, full carved gilded ornament, ball‑shape feet. Store jewelry & trinkets, classic soft furnishing highlight.",
+          "tags": "#OrientalDecor #LuxuryAccent #TableDecor #AntiqueReproduction #HomeGoals"
+        }
+      ]
+    },
+    {
+      "model": "LD-1403-0964",
+      "image": "images/LD-1403-0964.jpg",
+      "product_name": "黑棕欧式古堡瓜棱穹顶宝盒",
+      "copies": [
+        {
+          "copy_cn": "复古古堡风瓜棱穹顶彩绘宝盒\n瓜棱波浪盒体，穹顶松果顶钮，黑棕底色手绘欧式古堡田园，裂纹做旧漆面，艺术感桌面收纳✨",
+          "copy_en": "Vintage Castle‑Style Lobed Dome‑Top Decorative Casket\nScalloped lobed body, pine‑cone dome finial, black‑brown finish hand‑painted with european castle countryside, crackle aged lacquer, artistic table storage✨",
+          "tags": "#VintageCasket #OldWorldDecor #DecorativeBox #AntiqueVibes #TabletopStyling"
+        },
+        {
+          "copy_cn": "欧式田园彩绘｜穹顶瓜棱复古宝盒\n异形瓜瓣轮廓，穹塔式盒盖，手绘古堡庄园风景，复古做旧漆，茶几梳妆台氛围感摆件🏰",
+          "copy_en": "European Country‑Painted Dome‑Top Scalloped Vintage Box\nUnique scalloped silhouette, dome‑shaped lid, hand‑painted castle manor scenery, aged vintage lacquer, atmospheric decor for coffee table & vanity🏰",
+          "tags": "#EuropeanVintage #TableOrnament #HomeAccent #OrnateBox #VintageHome"
+        },
+        {
+          "copy_cn": "故事感桌面摆件✨古堡风景穹顶宝盒\n盒身环绕古堡田园图景，松果造型顶钮，波浪瓜棱盒型，裂纹做旧质感，收纳小物拍照出片神器",
+          "copy_en": "Story‑Telling Tabletop Castle‑Scenery Dome‑Top Casket ✨\nEncircling castle‑countryside paintings, pine‑cone finial, scalloped lobed shape, crackled aged texture. Store trinkets, highly photo‑friendly decor piece.",
+          "tags": "#ArtDecorObject #DecorInspo #VintageBox #OldWorldCharm #InteriorVibes"
+        },
+        {
+          "copy_cn": "西洋古董复刻瓜棱穹顶珍藏盒🏰\n复刻欧式古董首饰盒，穹顶顶盖，满幅古堡田园彩绘，瓜棱器型，做旧裂纹漆面，陈设收纳二合一",
+          "copy_en": "European‑Antique‑Reproduction Scalloped Dome‑Top Treasure Box 🏰\nReproduce vintage european jewelry casket, dome lid, full castle‑countryside murals, scalloped shape, crackle aged lacquer, dual‑use for display & storage.",
+          "tags": "#AntiqueReproduction #VintageAccent #TableDecor #DecorCasket #LuxuryVintage"
+        },
+        {
+          "copy_cn": "复古庄园美学✨黑棕做旧穹顶宝盒\n黑棕撞色漆面，环绕式古堡风景手绘，穹顶松果顶钮，圆润瓜棱盒身，提升桌面复古格调",
+          "copy_en": "Vintage Manor‑Aesthetic Black‑Brown Aged Dome‑Top Casket ✨\nBlack‑brown contrast lacquer, surrounding hand‑painted manor landscape, pine‑cone dome finial, soft scalloped body. Upgrade your table vintage flair.",
+          "tags": "#ManorStyle #TabletopDecor #OrnateHome #VintageObject #HomeStyling"
+        }
+      ]
+    },
+    {
+      "model": "LD-1403-1032",
+      "image": "images/LD-1403-1032.jpg",
+      "product_name": "红底鎏金花鸟人物宝盒",
+      "copies": [
+        {
+          "copy_cn": "红地鎏金花鸟人物坡顶珍藏宝盒\n红底鎏金缠枝花鸟人物，斜坡宝塔式顶盖，编织纹理鎏金镶边，球形盒脚，桌面复古收纳摆件✨",
+          "copy_en": "Red‑Gilded Figure‑Floral Sloped‑Roof Lacquer Casket\nRed base with gilded scroll florals & figures, pagoda‑style sloped lid, woven‑pattern gilded trim, spherical feet, vintage table storage ornament✨",
+          "tags": "#ChinoiserieBox #GiltDecor #LacquerDecor #VintageTable #LuxuryAccent"
+        },
+        {
+          "copy_cn": "红金复古｜鎏金人物花鸟彩绘宝盒\n红漆底色，浮雕感鎏金人物花卉，斜坡顶盖，精致鎏金包边珠脚，梳妆台玄关软装陈设🏮",
+          "copy_en": "Red‑Gold Vintage Gilded Figure‑Floral Painted Decor Box\nRed lacquer base, relief‑style gilded figures & blooms, sloped roof lid, fine gilded trim & ball feet, ideal vanity & entryway soft decor🏮",
+          "tags": "#ChinoiserieStyle #DecorativeCasket #OldWorldLuxury #VanityDecor #HomeAccent"
+        },
+        {
+          "copy_cn": "浮雕质感红金宝盒✨花鸟人物彩绘漆盒\n盒面鎏金浮雕人物花枝，辨识度斜坡顶盖，编织纹样描金边框，鎏金球脚，收纳首饰的艺术摆件",
+          "copy_en": "Relief‑Textured Red‑Gilded Floral‑Figure Lacquer Box ✨\nRelief‑effect gilded figures & blossom branches, distinctive sloped lid, woven‑motif gilded border, gilded ball feet. Art‑piece storage for jewelry.",
+          "tags": "#GiltOrnament #VintageBox #TableOrnament #DecorInspo #StatementPiece"
+        },
+        {
+          "copy_cn": "西洋中国风复刻红金坡顶盖宝盒🏮\nChinoiserie古董复刻，红底鎏金人物花鸟，宝塔斜坡顶盖，细节鎏金工艺，书房桌面高级陈设",
+          "copy_en": "Western Chinoiserie Reproduction Red‑Gilded Sloped‑Lid Casket 🏮\nChinoiserie antique reproduction, red base gilded figures & florals, pagoda sloped lid, fine gilded craftsmanship, premium decor for study table.",
+          "tags": "#AntiqueReproduction #ChinoiserieHome #LacquerBox #TabletopDecor #LuxuryVibes"
+        },
+        {
+          "copy_cn": "贵气红金桌面漆盒✨人物花鸟珍藏宝盒\n红漆铺展鎏金人物花鸟图景，坡形顶盖，编织纹鎏金镶边，球形支脚，兼顾收纳与陈列观赏",
+          "copy_en": "Luxury Red‑Gold Table Lacquer Box, Figure‑Floral Treasure Casket ✨\nRed lacquer with sprawling gilded figure‑floral scenes, sloped lid, woven‑pattern gilded trim, spherical feet. Combine storage & display value.",
+          "tags": "#RedAndGoldDecor #OrnateBox #VintageObject #HomeStyling #AccentDecor"
+        }
+      ]
+    },
+    {
+      "model": "LD-2005-1900A",
+      "image": "images/LD-2005-1900A.jpg",
+      "product_name": "湖蓝鎏金花卉四斗复古斗柜",
+      "copies": [
+        {
+          "copy_cn": "湖蓝鎏金花卉四斗法式复古斗柜\n清新湖蓝漆面，满绘鎏金花卉纹样，黄铜雕花拉手，鎏金镶边细柜腿，玄关卧室多功能收纳柜✨",
+          "copy_en": "Teal‑Blue Gilded‑Floral French Vintage Chest Of Drawers\nFresh teal‑blue lacquer finish, full gilded floral paintings, carved brass pulls, gilded trim & slender legs, multi‑purpose storage cabinet for entry & bedroom✨",
+          "tags": "#VintageCommode #FrenchFurniture #GildedDecor #StorageCabinet #HomeFurnishing"
+        },
+        {
+          "copy_cn": "法式复古湖蓝花卉鎏金斗柜\n蓝底鎏金盛放花卉，四层抽屉大容量，复古黄铜五金，鎏金描金边框，客厅卧室颜值收纳家具💙",
+          "copy_en": "French Vintage Teal‑Blue Floral Gilded Chest Of Drawers\nBlue base with blooming gilded florals, four‑drawer large storage capacity, vintage brass hardware, gilded trim, good‑looking storage furniture for living & bedroom💙",
+          "tags": "#FrenchVintage #DrawerChest #OrnateFurniture #BedroomDecor #LivingRoomStyling"
+        },
+        {
+          "copy_cn": "清新复古端景斗柜✨湖蓝鎏金花卉立柜\n高辨识度湖蓝底色，抽屉满铺鎏金花卉，精致黄铜雕花拉手，描金柜体轮廓，家居软装视觉焦点",
+          "copy_en": "Fresh Vintage Focal‑Point Teal‑Blue Gilded‑Floral Chest ✨\nDistinctive teal‑blue base, drawers covered with gilded florals, delicate carved brass pulls, gilded cabinet outline, visual highlight for home soft furnishing.",
+          "tags": "#StatementFurniture #VintageCabinet #FloralDecor #InteriorInspo #DecorInspo"
+        },
+        {
+          "copy_cn": "大宅软装💙湖蓝彩绘鎏金四抽斗柜\n洛可可法式柜体造型，湖蓝漆面手绘鎏金花卉，多抽屉储物，鎏金包边金属拉手，玄关卧室百搭大件",
+          "copy_en": "Mansion Soft Furnishing Teal‑Blue Painted Gilded 4‑Drawer Commode 💙\nRococo french cabinet silhouette, teal‑blue lacquer hand‑painted gilded florals, multi‑drawer storage, gilded trim & metal pulls, versatile large piece for entry & bedroom.",
+          "tags": "#MansionFurniture #RococoStyle #StorageFurniture #VintageVibes #LuxuryHome"
+        },
+        {
+          "copy_cn": "蓝金复古彩绘斗柜✨花卉手绘装饰柜\n湖蓝漆面搭配鎏金花卉彩绘，四抽屉实用收纳，复古黄铜拉手，细描鎏金柜边，点亮居家空间",
+          "copy_en": "Blue‑Gold Vintage Painted Chest, Floral‑Art Decor Cabinet ✨\nTeal‑blue lacquer matched with gilded floral murals, four‑drawer practical storage, vintage brass pulls, fine gilded cabinet edging, brighten your living space.",
+          "tags": "#PaintedFurniture #HomeAccent #DrawerCabinet #OldWorldCharm #HomeGoals"
+        }
+      ]
+    },
+    {
+      "model": "LD-2005-1921",
+      "image": "images/LD-2005-1921.jpg",
+      "product_name": "黑底鎏金山水禽鸟斗柜",
+      "copies": [
+        {
+          "copy_cn": "黑地鎏金山水禽鸟金属围栏斗柜\n黑漆柜体，四面鎏金山水亭台珍禽，顶部镂空金属围栏，复古金属拉手，多抽屉大容量收藏斗柜✨",
+          "copy_en": "Black‑Gilded Landscape‑Bird Commode With Metal Gallery Rail\nBlack lacquer cabinet body, four‑sided gilded landscape pavilions & exotic birds, open‑work metal gallery rail on top, vintage metal pulls, large‑capacity multi‑drawer chest✨",
+          "tags": "#ChinoiserieFurniture #GiltCommode #LacquerCabinet #VintageFurniture #LuxuryInteriors"
+        },
+        {
+          "copy_cn": "黑金国风｜鎏金山水禽鸟彩绘斗柜\n黑底满绘鎏金东方山水花鸟，顶部防护金属围栏，多抽屉储物，金属复古拉手，书房客厅气场家具🖤",
+          "copy_en": "Black‑Gilded Chinoiserie Landscape‑Bird Painted Chest Of Drawers\nBlack base fully painted gilded oriental landscape & birds, protective top metal gallery rail, multi‑drawer storage, vintage metal pulls, powerful furniture for study & living room🖤",
+          "tags": "#ChinoiserieStyle #VintageCabinet #OldWorldLuxury #StudyDecor #HomeStyling"
+        },
+        {
+          "copy_cn": "古董感黑鎏金斗柜✨带金属围栏端景柜\n四面完整鎏金山水禽鸟图景，顶部镂空金属围边，复古金属五金，多抽屉收纳，复刻西洋古董家具气质",
+          "copy_en": "Antique‑Vibe Black‑Gilded Commode With Metal Gallery Top ✨\nComplete four‑sided gilded landscape‑bird scenes, open‑work top metal gallery rail, vintage metal hardware, multi‑drawer storage, replicate western antique furniture vibe.",
+          "tags": "#AntiqueReproduction #StatementCabinet #GiltFurniture #InteriorDecor #DecorInspo"
+        },
+        {
+          "copy_cn": "书房收藏柜🖤黑鎏金山水禽鸟斗柜\n经典Chinoiserie黑漆鎏金工艺，四面山水珍禽彩绘，顶部金属围栏保护摆件，多抽屉收纳藏品文书",
+          "copy_en": "Study Collection Cabinet Black‑Gilded Landscape‑Bird Commode 🖤\nClassic Chinoiserie black‑lacquer‑gilded craft, four‑sided landscape‑exotic‑bird murals, top metal gallery rail to safeguard decor, multi‑drawer for collectibles & documents.",
+          "tags": "#StudyRoomFurniture #ChinoiserieHome #LacquerChest #VintageVibes #MansionDecor"
+        },
+        {
+          "copy_cn": "冷调贵气✨黑底鎏金山水彩绘斗柜\n酷黑漆面衬耀眼鎏金山水禽鸟，顶部镂空金属围栏，复古金属拉手，大容量抽屉，客厅玄关吸睛大件",
+          "copy_en": "Cool‑Tone Luxury Black‑Base Gilded‑Landscape Painted Commode ✨\nDeep black lacquer set off brilliant gilded landscape & birds, open‑work top metal gallery rail, vintage metal pulls, large‑capacity drawers, eye‑catching piece for living & entryway.",
+          "tags": "#DarkLuxuryFurniture #OrnateCabinet #VintageObject #HomeAccent #LuxuryLiving"
+        }
+      ]
+    },
+    {
+      "model": "LD-2211-2164",
+      "image": "images/LD-2211-2164.jpg",
+      "product_name": "孔雀仙鹤四扇折叠屏风",
+      "copies": [
+        {
+          "copy_cn": "米黄底孔雀仙鹤四扇手绘折屏\n四扇可折叠屏风，米黄底色手绘孔雀仙鹤花鸟，竹枝繁花，古典中式画面，空间隔断背景装饰✨",
+          "copy_en": "Beige‑Background 4‑Panel Hand‑Painted Peacock‑Crane Folding Screen\nFour‑panel foldable room divider, beige base hand‑painted peacocks, cranes, florals & bamboo, classic oriental imagery, partition & wall background decor✨",
+          "tags": "#OrientalScreen #ChinoiserieDecor #RoomDivider #WallDecor #VintageInteriors"
+        },
+        {
+          "copy_cn": "中式花鸟折屏｜孔雀仙鹤手绘四扇屏风\n米黄做旧画底，孔雀仙鹤飞鸟繁花竹丛，可折叠移动，做空间隔断、背景墙，提升空间东方氛围感🦚",
+          "copy_en": "Chinese Floral‑Bird Folding Screen, Peacock & Crane 4‑Panel Divider\nAged beige painting base, peacocks, cranes, flying birds, blooms & bamboo grove, foldable & movable. Used as partition or backdrop, boost oriental room vibe🦚",
+          "tags": "#ChineseDecor #FoldingScreen #HomePartition #WallAccent #VintageHome"
+        },
+        {
+          "copy_cn": "东方画意屏风✨孔雀仙鹤四扇手绘折屏\n整幅通景花鸟长卷，孔雀仙鹤各类珍禽，繁花翠竹，折叠设计，软装造景，拍摄布景绝佳道具",
+          "copy_en": "Oriental‑Painting‑Style Peacock‑Crane Four‑Panel Folding Screen ✨\nFull panoramic floral‑bird scroll artwork, peacocks, cranes and various exotic birds, blooming flowers & green bamboo. Foldable design, great soft furnishing & shooting prop.",
+          "tags": "#ArtHomeDecor #ScreenDivider #DecorInspo #ChinoiserieArt #InteriorVibes"
+        },
+        {
+          "copy_cn": "大宅空间隔断🦚米黄珍禽手绘折屏\n四扇连体折叠屏风，米黄底色绘制孔雀仙鹤花鸟竹景，既可分隔空间，也可作为艺术背景陈设",
+          "copy_en": "Mansion‑Style Room Divider Beige Exotic‑Bird Hand‑Painted Folding Screen 🦚\nFour‑joint foldable screen, beige base painted peacocks, cranes, florals & bamboo scenery. Works both as space partition and artistic background display piece.",
+          "tags": "#MansionDecor #RoomSeparator #WallStatement #VintageVibes #LuxuryHome"
+        },
+        {
+          "copy_cn": "复古花鸟折屏✨孔雀仙鹤手绘装饰屏风\n仿古米黄画底，群禽栖于花竹之间，四扇可折叠，客厅茶室，打造雅致东方氛围感",
+          "copy_en": "Vintage Floral‑Bird Folding Screen, Peacock‑Crane Decor Divider ✨\nAntique‑style beige painting base, flocks of birds resting among blossoms & bamboo, four‑panel foldable. Fit living & tea room, build elegant oriental atmosphere.",
+          "tags": "#TeaRoomDecor #OrientalArt #FoldingDivider #HomeStyling #AccentPiece"
+        }
+      ]
+    },
+    {
+      "model": "LD-2308-2201",
+      "image": "images/LD-2308-2201.jpg",
+      "product_name": "金底双孔雀挂轴挂毯装饰画",
+      "copies": [
+        {
+          "copy_cn": "金底双孔雀流苏挂轴装饰挂毯\n金箔肌理底色，双孔雀栖石配梅花枝，复古卷轴流苏，Chinoiserie墙面艺术，大宅软装挂画✨",
+          "copy_en": "Gold‑Gilded Dual‑Peacock Scroll Tapestry Wall Art\nGold‑leaf textured background, two peacocks perched on rock with plum blossom branches, vintage scroll tassels, Chinoiserie wall art, mansion soft furnishing wall decor✨",
+          "tags": "#WallTapestry #ChinoiserieWallArt #PeacockArt #WallDecor #LuxuryHome"
+        },
+        {
+          "copy_cn": "复古孔雀挂轴画｜金底流苏挂毯装饰\n金纹底色，华丽双孔雀梅花图景，卷轴带两侧流苏，悬挂墙面，瞬间营造古典华贵空间🦚",
+          "copy_en": "Vintage Peacock Scroll Wall Hanging, Gold‑Base Tapestry Decor\nGold‑textured background, gorgeous dual‑peacock‑plum‑blossom scene, scroll with side tassels. Hang on wall to create classic luxurious room vibe🦚",
+          "tags": "#WallHanging #VintageWallArt #OrientalDecor #HomeAccent #OldWorldLuxury"
+        },
+        {
+          "copy_cn": "贵气墙面软装✨金底双孔雀流苏挂毯\n金箔质感底，双孔雀山石梅花，复古卷轴流苏设计，替代普通装饰画，空间视觉焦点",
+          "copy_en": "Luxury Wall Soft Furnishing Gold‑Base Dual‑Peacock Tassel Tapestry ✨\nGold‑leaf‑like texture base, two peacocks on rock with plum flowers, vintage scroll‑tassel design. Alternative to regular wall paintings, room visual focal point.",
+          "tags": "#StatementWallArt #PeacockDecor #DecorInspo #ChinoiserieStyle #InteriorInspo"
+        },
+        {
+          "copy_cn": "法式中国风挂毯🦚金底孔雀卷轴挂画\n西洋Chinoiserie审美，金底彩绘双孔雀梅花，卷轴流苏，客厅卧室玄关墙面高级陈设",
+          "copy_en": "Chinoiserie‑Style Tapestry, Gold‑Base Peacock Scroll Wall Hanging 🦚\nWestern Chinoiserie aesthetic, gold‑base painted dual‑peacock & plum blossoms, scroll with tassels, premium wall decor for living, bedroom & entryway.",
+          "tags": "#ChinoiserieHome #WallOrnament #VintageVibes #MansionDecor #ArtWall"
+        },
+        {
+          "copy_cn": "金箔质感挂轴✨双孔雀艺术挂毯装饰画\n仿金箔肌理背景，孔雀栖石配盛放梅枝，卷轴流苏，墙面软装，轻松提升空间复古华贵气质",
+          "copy_en": "Gold‑Leaf‑Effect Scroll Dual‑Peacock Art Tapestry Wall Decor ✨\nImitation gold‑leaf textured backdrop, peacocks resting on rock beside blooming plum branches, scroll & tassels. Wall soft furnishing, easily boost vintage‑luxury room character.",
+          "tags": "#GildedWallDecor #HomeStyling #OrientalWallArt #TapestryArt #HomeGoals"
+        }
+      ]
+    },
+    {
+      "model": "LD-2312-2229",
+      "image": "images/LD-2312-2229.jpg",
+      "product_name": "做旧木纹花鸟长型玻璃顶盖漆箱",
+      "copies": [
+        {
+          "copy_cn": "做旧木纹花鸟长型玻璃顶盖漆箱\n复古做旧木纹肌理，盒身手绘花鸟竹石，透明玻璃顶盖，鎏金包边球形脚，长型桌面收纳展示盒✨",
+          "copy_en": "Aged‑Wood‑Grain Long Bird‑Floral Lacquer Box With Glass Lid\nVintage aged wood‑grain texture, hand‑painted birds, florals, bamboo & rocks on box body, clear glass top, gilded trim & ball feet, long‑shape table storage‑display casket✨",
+          "tags": "#VintageCasket #GlassLidBox #ChinoiserieDecor #TabletopDecor #AntiqueVibes"
+        },
+        {
+          "copy_cn": "做旧木纹长盒｜花鸟玻璃顶盖展示漆箱\n长卧式盒体，仿旧木纹底色，满绘花鸟竹石，玻璃顶盖可观内部，鎏金镶边珠脚，陈列小藏品🏵️",
+          "copy_en": "Aged‑Wood‑Grain Long Lacquer Box, Bird‑Floral Glass‑Top Display Casket\nLong horizontal box silhouette, antique‑imitating wood‑grain base, full bird‑floral‑bamboo‑rock paintings. Glass lid for viewing inside, gilded trim & ball feet, display small collectibles🏵️",
+          "tags": "#DisplayBox #DecorativeBox #OldWorldCharm #TableOrnament #VintageHome"
+        },
+        {
+          "copy_cn": "复古展示收纳盒✨木纹花鸟玻璃顶盖漆箱\n仿做旧木质感，盒身环绕花鸟竹石图景，通透玻璃顶盖，鎏金包边圆脚，既可收纳又可直接陈列藏品",
+          "copy_en": "Vintage Display‑Storage Box, Wood‑Grain Bird‑Floral Glass‑Top Lacquer Casket ✨\nAntique‑imitated wood texture, encircling bird‑floral‑bamboo‑rock scenes on case, clear glass lid, gilded trim & round feet. Store and directly show your treasures.",
+          "tags": "#CollectibleDisplay #DecorInspo #LacquerBox #TableAccent #StatementPiece"
+        },
+        {
+          "copy_cn": "桌面陈列长漆箱🏵️做旧木纹花鸟玻璃盖宝盒\n长方卧式器型，做旧木纹底色，手绘东方花鸟竹石，玻璃顶盖，鎏金构件，首饰、古董小件展示收纳",
+          "copy_en": "Table‑Display Long Lacquer Casket Aged‑Wood‑Grain Bird‑Floral Glass‑Lid Box 🏵️\nLong horizontal rectangular shape, aged wood‑grain base, hand‑painted oriental bird‑floral‑bamboo‑rock motifs, glass top, gilded fittings. Display & store jewelry & small antiques.",
+          "tags": "#ChinoiserieBox #VanityStorage #VintageAccent #DecorCasket #LuxuryVintage"
+        },
+        {
+          "copy_cn": "木纹肌理长宝盒✨花鸟手绘玻璃顶盖收纳箱\n复古做旧木纹漆面，盒身满幅花鸟竹石彩绘，玻璃可视顶盖，鎏金包边球形支脚，桌面软装艺术摆件",
+          "copy_en": "Wood‑Grain‑Textured Long Treasure Box, Bird‑Floral Painted Glass‑Top Storage Casket ✨\nVintage aged wood‑grain lacquer, full‑surface bird‑floral‑bamboo‑rock murals, see‑through glass lid, gilded trim & ball‑shape feet, artistic tabletop soft furnishing ornament.",
+          "tags": "#ArtDecorObject #HomeStyling #OrnateBox #VintageObject #HomeAccent"
+        }
+      ]
+    },
+    {
+      "model": "LD-2312-2241",
+      "image": "images/LD-2312-2241.jpg",
+      "product_name": "黑底浮雕南瓜造型漆盒",
+      "copies": [
+        {
+          "copy_cn": "黑地浮雕异域风物南瓜造型漆盒\n南瓜瓜瓣异形盒体，黑色漆面浮雕异域人物长颈鹿棕榈，仿竹节包边，仿生南瓜蒂顶盖把手，桌面艺术收纳✨",
+          "copy_en": "Black Relief‑Carved Exotic‑Scene Pumpkin‑Shape Lacquer Box\nPumpkin‑lobed special silhouette, black lacquer with relief‑carved exotic figures, giraffes & palms, faux‑bamboo trim, pumpkin‑stem lid handle, artistic tabletop storage✨",
+          "tags": "#NoveltyBox #VintageCasket #DecorativeBox #TabletopDecor #OrnateHome"
+        },
+        {
+          "copy_cn": "异域复古南瓜宝盒｜黑底浮雕彩绘漆盒\n南瓜瓜棱器型，盒身浮雕非洲风物长颈鹿人物棕榈树，竹节式镶边，南瓜蒂提钮，个性桌面摆件🦒",
+          "copy_en": "Exotic‑Vintage Pumpkin Treasure Box, Black‑Base Relief‑Painted Lacquer Casket\nPumpkin‑lobed shape, box relief‑carved african‑style scenery: giraffes, figures & palm trees, bamboo‑style trim, pumpkin‑stem knob, unique table ornament🦒",
+          "tags": "#ExoticDecor #PumpkinBox #OldWorldCharm #TableOrnament #VintageHome"
+        },
+        {
+          "copy_cn": "猎奇感桌面摆件✨浮雕异域南瓜造型漆盒\n别致南瓜瓜瓣轮廓，黑漆浮雕长颈鹿、人物、棕榈，竹节镶边，仿生南瓜蒂顶盖，收纳零碎辨识度极高",
+          "copy_en": "Quirky‑Vibe Tabletop Ornament Relief‑Carved Exotic Pumpkin‑Shape Lacquer Box ✨\nDistinctive pumpkin‑lobed outline, black lacquer relief‑carved giraffes, human figures & palms, bamboo‑style trim, bionic pumpkin‑stem lid. High‑recognition storage for trinkets.",
+          "tags": "#UnusualDecorObject #DecorInspo #VintageBox #StatementDecor #InteriorVibes"
+        },
+        {
+          "copy_cn": "西洋猎奇复古漆盒🦒黑地浮雕南瓜宝盒\n西洋复古猎奇审美，南瓜异形盒身，浮雕异域草原风物，仿竹节包边，南瓜蒂顶盖，陈设收藏二合一",
+          "copy_en": "Western Quirky‑Vintage Lacquer Box Black Relief‑Carved Pumpkin Casket 🦒\nWestern vintage exotic aesthetic, special pumpkin‑shape body, relief‑carved exotic savanna scenery, faux‑bamboo trim, pumpkin‑stem lid. Dual‑use for display & collection.",
+          "tags": "#AntiqueReproduction #NoveltyDecor #TableDecor #DecorCasket #LuxuryVintage"
+        },
+        {
+          "copy_cn": "个性复古南瓜漆盒✨黑底浮雕异域风景宝盒\n瓜瓣南瓜盒型，黑漆浮雕长颈鹿人物棕榈树，竹节纹理镶边，仿生南瓜蒂把手，极具特色桌面软装好物",
+          "copy_en": "Unique Vintage Pumpkin Lacquer Box, Black‑Base Relief‑Carved Exotic‑Scenery Treasure Casket ✨\nLobed pumpkin box form, black lacquer relief‑carved giraffes, figures & palm trees, bamboo‑texture trim, bionic pumpkin‑stem handle. Highly‑characteristic table soft furnishing piece.",
+          "tags": "#QuirkyHome #HomeStyling #OrnateBox #VintageObject #HomeAccent"
+        }
+      ]
+    },
+    {
+      "model": "LD-2409-2307",
+      "image": "images/LD-2409-2307.jpg",
+      "product_name": "黑底鎏金花卉展示柜",
+      "copies": [
+        {
+          "copy_cn": "黑地鎏金花卉双组连体玻璃展示柜\n双柜连体组合，黑底手绘鎏金花卉，鎏金雕花框边，上部玻璃门展藏品，下部柜门储物，大宅端景陈列柜✨",
+          "copy_en": "Black‑Gilded Floral Combined Double‑Unit Glass Display Cabinet\nCombined dual‑cabinet set, black base hand‑painted gilded florals, carved gilded frame trim. Upper glass doors for collectible display, lower cabinet doors for storage, mansion focal‑point showcase✨",
+          "tags": "#ChinoiserieCabinet #CurioCabinet #GiltFurniture #DisplayFurniture #LuxuryInteriors"
+        },
+        {
+          "copy_cn": "黑金国风连体玻璃陈列柜｜花卉彩绘双组柜\n连体双柜体，黑漆鎏金彩绘花卉纹样，鎏金雕花边框，上玻璃展藏，下柜门收纳，客厅书房大件展示家具🖤",
+          "copy_en": "Black‑Gilded Chinoiserie Combined Glass Curio Cabinet, Floral‑Painted Dual Unit\nConnected double‑cabinet body, black lacquer gilded painted floral motifs, carved gilded frame. Upper glass section for exhibits, lower cabinet storage, large display furniture for living & study🖤",
+          "tags": "#ChinoiserieStyle #ShowcaseCabinet #OldWorldLuxury #VintageFurniture #HomeStyling"
+        },
+        {
+          "copy_cn": "收藏党连体展示柜✨黑鎏金花卉玻璃大柜\n双柜拼接连体设计，黑底满绘鎏金花卉，华丽鎏金雕花框架，上可视玻璃陈列，封闭式下柜收纳藏品器物",
+          "copy_en": "Collector‑Grade Combined Display Cabinet Black‑Gilded Floral Glass Showcase ✨\nSpliced dual‑cabinet connected design, black base fully painted gilded florals, ornate carved gilded frame. See‑through glass upper display, enclosed lower cabinet for storing antiques & wares.",
+          "tags": "#CollectorHome #StatementFurniture #GiltDecor #InteriorInspo #DecorInspo"
+        },
+        {
+          "copy_cn": "大宅端景陈列柜🖤黑鎏金花卉连体玻璃柜\n西洋Chinoiserie风格，连体双组玻璃展示柜，黑漆鎏金花卉手绘，鎏金雕花轮廓，可陈设藏品摆件，气场十足",
+          "copy_en": "Mansion Focal‑Point Showcase Black‑Gilded Floral Combined Glass Cabinet 🖤\nWestern Chinoiserie style, combined dual‑unit glass curio cabinet, black lacquer hand‑painted gilded florals, carved gilded outline. Display collectibles & decor pieces, full of grand presence.",
+          "tags": "#MansionFurniture #CurioShowcase #ChinoiserieHome #VintageVibes #LuxuryLiving"
+        },
+        {
+          "copy_cn": "黑底鎏金花卉✨双拼连体玻璃收藏展示柜\n一体式双组柜体，黑漆面配重工鎏金花卉彩绘，鎏金雕花镶边，上玻璃门陈列，下柜门储物，兼具颜值与实用性",
+          "copy_en": "Black‑Base Gilded‑Floral Spliced Combined Glass Collectible Showcase ✨\nIntegrated dual‑unit cabinet body, black lacquer with heavy‑craft gilded floral murals, carved gilded trim. Upper glass‑door display, lower‑door storage. Merge beauty & practical function.",
+          "tags": "#DisplayCabinetry #OrnateFurniture #VintageCabinet #HomeAccent #HomeGoals"
+        }
+      ]
+    },
+    {
+      "model": "LD-2505-2404",
+      "image": "images/LD-2505-2404.jpg",
+      "product_name": "假书装饰矮柜",
+      "copies": [
+        {
+          "copy_cn": "东方鎏金美学｜藏书柜矮柜\n黑底描金手绘，复刻古典书房氛围感，Chinoiserie复古玄关家具✨",
+          "copy_en": "Gilded Chinoiserie Book‑Style Cabinet\nBlack‑gilt hand‑painted cabinet, vintage oriental vibe for entryway decor.",
+          "tags": "#ChinoiserieHome #VintageFurniture #OrientalDecor #LuxuryInteriors #AntiqueStyle"
+        },
+        {
+          "copy_cn": "复古伪装书柜｜法式东方矮柜\n满柜仿真古书造型，鎏金雕花，打造电影感复古空间。",
+          "copy_en": "Vintage Fake Book Chest Cabinet\nFake‑book design with gilded carving, bring cinematic vintage charm to your room.",
+          "tags": "#ChinoiserieHome #VintageFurniture #OrientalDecor #LuxuryInteriors #AntiqueStyle"
+        },
+        {
+          "copy_cn": "黑金手绘矮柜｜Chinoiserie收藏级家具\n重工手绘花卉，鎏金边框，玄关客厅点睛复古单品。",
+          "copy_en": "Black‑Gilt Hand‑Painted Side Cabinet\nHeavy‑duty floral hand‑paint, gilded trim, statement vintage piece for living space.",
+          "tags": "#ChinoiserieHome #VintageFurniture #OrientalDecor #LuxuryInteriors #AntiqueStyle"
+        },
+        {
+          "copy_cn": "把复古书房搬进家｜装饰矮柜\n仿真古书立面，精致描金工艺，兼具收纳与展示。",
+          "copy_en": "Bring Vintage Study Vibe Home\nFake book facade & fine gild craft, storage + display in one furniture.",
+          "tags": "#ChinoiserieHome #VintageFurniture #OrientalDecor #LuxuryInteriors #AntiqueStyle"
+        },
+        {
+          "copy_cn": "法式中国风｜藏书造型装饰柜\n黑地彩绘+鎏金雕花，古典贵族家居质感拉满。",
+          "copy_en": "Chinoiserie Book‑Motif Accent Cabinet\nBlack base colorful paint plus gild carving, elevate aristocratic home aesthetic.",
+          "tags": "#ChinoiserieHome #VintageFurniture #OrientalDecor #LuxuryInteriors #AntiqueStyle"
+        },
+        {
+          "copy_cn": "玄关吸睛单品｜手绘假书矮柜\n一眼沦陷的复古东方，艺术感满满的收纳柜子。",
+          "copy_en": "Eye‑Catching Entryway Accent Cabinet\nIrresistible vintage oriental aesthetic, art‑infused storage chest.",
+          "tags": "#ChinoiserieHome #VintageFurniture #OrientalDecor #LuxuryInteriors #AntiqueStyle"
+        }
+      ]
+    },
+    {
+      "model": "LD-2506-2406",
+      "image": "images/LD-2506-2406.jpg",
+      "product_name": "南瓜形花鸟储物盖罐",
+      "copies": [
+        {
+          "copy_cn": "黑地花鸟南瓜罐｜复古装饰器皿\n手绘花鸟鎏金，南瓜器型，桌面绝美复古摆件。",
+          "copy_en": "Black Chinoiserie Pumpkin Lidded Jar\nHand‑painted bird‑flower gild art, pumpkin shape, stunning tabletop decor piece.",
+          "tags": "#ChinoiserieDecor #VintageVessel #OrientalArt #LuxuryHomeDecor #AntiqueAccent"
+        },
+        {
+          "copy_cn": "法式东方盖罐｜桌面储物摆件\n裂纹黑漆基底，工笔花鸟彩绘，实用又充满艺术氛围。",
+          "copy_en": "Chinoiserie Lidded Storage Jar\nCrackle black lacquer base, fine bird‑flower paint, functional art decor.",
+          "tags": "#ChinoiserieDecor #VintageVessel #OrientalArt #LuxuryHomeDecor #AntiqueAccent"
+        },
+        {
+          "copy_cn": "鎏金花鸟南瓜罐｜中古风收纳盒\n东方手绘美学，既是储物罐，也是一件桌面艺术品。",
+          "copy_en": "Gilded Bird‑Flower Pumpkin Jar\nOriental hand‑paint aesthetic, storage container & table art piece.",
+          "tags": "#ChinoiserieDecor #VintageVessel #OrientalArt #LuxuryHomeDecor #AntiqueAccent"
+        },
+        {
+          "copy_cn": "氛围感桌面神器｜复古彩绘盖罐\n黑底彩绘灵鸟繁花，为空间注入复古东方韵味。",
+          "copy_en": "Vintage Hand‑Painted Table Lidded Pot\nBlack base with vivid bird‑bloom paint, infuse oriental vintage charm to space.",
+          "tags": "#ChinoiserieDecor #VintageVessel #OrientalArt #LuxuryHomeDecor #AntiqueAccent"
+        },
+        {
+          "copy_cn": "Chinoiserie艺术盖罐｜南瓜造型\n饱满南瓜轮廓，重工手绘，轻奢软装点睛小物。",
+          "copy_en": "Artistic Chinoiserie Pumpkin Jar\nPlump pumpkin silhouette, elaborate hand‑paint, perfect small luxury accent.",
+          "tags": "#ChinoiserieDecor #VintageVessel #OrientalArt #LuxuryHomeDecor #AntiqueAccent"
+        },
+        {
+          "copy_cn": "中古风花鸟储物罐｜装饰盖盒\n裂纹漆肌理，灵动花鸟纹样，桌面高级感瞬间就位。",
+          "copy_en": "Vintage Bird‑Flower Storage Lidded Box\nCrackle lacquer texture, lively bird‑flower motif, instantly upgrade table vibe.",
+          "tags": "#ChinoiserieDecor #VintageVessel #OrientalArt #LuxuryHomeDecor #AntiqueAccent"
+        }
+      ]
+    },
+    {
+      "model": "LD-2507-2407",
+      "image": "images/LD-2507-2407.jpg",
+      "product_name": "竹节底座花鸟彩绘宝箱",
+      "copies": [
+        {
+          "copy_cn": "竹节鎏金底座｜花鸟彩绘收藏宝箱\n黑底描金工笔花鸟，仿竹节鎏金底座，复古收纳珍宝盒。",
+          "copy_en": "Bamboo‑Base Chinoiserie Treasure Chest\nBlack‑gilt fine bird‑flower paint, faux‑bamboo gild stand, vintage storage chest.",
+          "tags": "#ChinoiserieChest #VintageStorage #OrientalFurniture #LuxuryAccent #AntiqueHome"
+        },
+        {
+          "copy_cn": "法式中国风彩绘宝箱｜装饰收纳箱\n祥云飞鸟花卉纹样，竹节鎏金支架，客厅陈设艺术品。",
+          "copy_en": "Hand‑Painted Chinoiserie Decor Chest\nCloud,bird & floral motif, gild bamboo‑style stand, display art for living room.",
+          "tags": "#ChinoiserieChest #VintageStorage #OrientalFurniture #LuxuryAccent #AntiqueHome"
+        },
+        {
+          "copy_cn": "复古珍宝箱｜竹节底座手绘箱\n重工彩绘灵鸟繁花，金属锁扣，兼具展示与收纳。",
+          "copy_en": "Vintage Oriental Treasure Chest Box\nElaborate bird‑flower paint, metal latch, for display & storage purpose.",
+          "tags": "#ChinoiserieChest #VintageStorage #OrientalFurniture #LuxuryAccent #AntiqueHome"
+        },
+        {
+          "copy_cn": "黑金手绘装饰箱｜仿竹鎏金支架\n东方古典画境落在箱体，摆件收纳二合一。",
+          "copy_en": "Black‑Gilt Hand‑Painted Accent Chest\nOriental classic painting on box, decor & storage all‑in‑one piece.",
+          "tags": "#ChinoiserieChest #VintageStorage #OrientalFurniture #LuxuryAccent #AntiqueHome"
+        },
+        {
+          "copy_cn": "Chinoiserie收藏宝箱｜花鸟主题\n裂纹黑漆，鎏金竹节脚，贵族感复古软装。",
+          "copy_en": "Chinoiserie Bird‑Flower Collectible Chest\nCrackle black lacquer, gild bamboo‑form feet, aristocratic vintage soft furnishing.",
+          "tags": "#ChinoiserieChest #VintageStorage #OrientalFurniture #LuxuryAccent #AntiqueHome"
+        },
+        {
+          "copy_cn": "氛围感陈列宝箱｜彩绘储物盒\n飞鸟花枝纹样，摆在哪里都是视觉焦点。",
+          "copy_en": "Atmospheric Display Storage Chest\nFlying‑bird floral pattern, visual focal point wherever you place it.",
+          "tags": "#ChinoiserieChest #VintageStorage #OrientalFurniture #LuxuryAccent #AntiqueHome"
+        }
+      ]
+    },
+    {
+      "model": "LD-2508-2410",
+      "image": "images/LD-2508-2410.jpg",
+      "product_name": "梅花竹纹彩绘箱",
+      "copies": [
+        {
+          "copy_cn": "梅竹彩绘箱｜新中式复古花架套装\n梅竹满绘箱盒，几何描金花架，优雅东方陈设组合。",
+          "copy_en": "Plum‑Bamboo Painted Box & Stand Set\nFull plum‑bamboo painted box, geometric gild stand, elegant oriental display set.",
+          "tags": "#ChinoiserieSet #OrientalFurniture #VintageAccent #LuxuryHome #ChicDecor"
+        },
+        {
+          "copy_cn": "黑地彩绘箱盒｜中式描金边几花架\n梅花翠竹重工手绘，花架线条利落，软装高级组合。",
+          "copy_en": "Black Lacquer Plum‑Bamboo Box With Side Stand\nFine plum‑bamboo hand‑paint, sleek gild stand, premium soft furnishing combo.",
+          "tags": "#ChinoiserieSet #OrientalFurniture #VintageAccent #LuxuryHome #ChicDecor"
+        },
+        {
+          "copy_cn": "东方美学组合｜彩绘收纳箱+花架\n花开满盒，描金勾勒，摆置客厅茶室氛围感拉满。",
+          "copy_en": "Oriental Aesthetic Box & Stand Combo\nBlossom‑covered box with gild outline, perfect for living room & tea room.",
+          "tags": "#ChinoiserieSet #OrientalFurniture #VintageAccent #LuxuryHome #ChicDecor"
+        },
+        {
+          "copy_cn": "Chinoiserie梅花竹纹陈设套组\n裂纹漆面彩绘梅竹，花架细巧鎏金，复古精致。",
+          "copy_en": "Chinoiserie Plum‑Bamboo Display Set\nCrackle lacquer painted plum‑bamboo, delicate gild stand, exquisite vintage look.",
+          "tags": "#ChinoiserieSet #OrientalFurniture #VintageAccent #LuxuryHome #ChicDecor"
+        },
+        {
+          "copy_cn": "客厅吸睛摆件套｜彩绘箱+高脚架\n箱盒可收纳，花架做陈列，一物多用复古软装。",
+          "copy_en": "Eye‑Catching Living‑Room Box‑Stand Set\nBox for storage, stand for display, multi‑use vintage soft furnishing.",
+          "tags": "#ChinoiserieSet #OrientalFurniture #VintageAccent #LuxuryHome #ChicDecor"
+        },
+        {
+          "copy_cn": "梅竹诗意｜复古箱架组合家具\n手绘繁花翠竹，黑金配色，演绎古典东方韵味。",
+          "copy_en": "Poetic Plum‑Bamboo Vintage Box‑Stand Set\nHand‑paint blossom & bamboo, black‑gold tone, interpret classic oriental charm.",
+          "tags": "#ChinoiserieSet #OrientalFurniture #VintageAccent #LuxuryHome #ChicDecor"
+        }
+      ]
+    },
+    {
+      "model": "LD-2508-2418",
+      "image": "images/LD-2508-2418.jpg",
+      "product_name": "三联花鸟手绘挂屏",
+      "copies": [
+        {
+          "copy_cn": "三联花鸟挂屏｜Chinoiserie装饰画\n黑底重工彩绘花鸟，三联条屏，墙面复古艺术焦点。",
+          "copy_en": "3‑Panel Chinoiserie Bird‑Flower Wall Screen\nElaborate black‑base bird‑flower paint, tri‑panel wall art focal point.",
+          "tags": "#ChinoiserieWallArt #OrientalPainting #VintageWallDecor #LuxuryWall #ArtHome"
+        },
+        {
+          "copy_cn": "法式中国风条屏｜花鸟手绘壁画\n牡丹玉兰灵鸟，鎏金画框，大尺寸墙面艺术装置。",
+          "copy_en": "Chinoiserie Bird‑Flower Triptych Wall Panel\nPeony,magnolia & colorful birds, gild frame, large‑size wall installation.",
+          "tags": "#ChinoiserieWallArt #OrientalPainting #VintageWallDecor #LuxuryWall #ArtHome"
+        },
+        {
+          "copy_cn": "复古三联挂屏｜东方手绘装饰\n整面墙的古典氛围感，花鸟灵动，豪宅软装首选。",
+          "copy_en": "Vintage Tri‑Panel Oriental Wall Screen\nFull‑wall classic atmosphere, vivid bird‑flower, ideal for luxury home styling.",
+          "tags": "#ChinoiserieWallArt #OrientalPainting #VintageWallDecor #LuxuryWall #ArtHome"
+        },
+        {
+          "copy_cn": "黑地彩绘花鸟屏｜墙面艺术挂饰\n三幅成套，层次丰富，瞬间拉高空间格调。",
+          "copy_en": "Black‑Lacquer Bird‑Flower Wall Panels Set\nThree‑piece set, rich layered detail, instantly upgrade space taste.",
+          "tags": "#ChinoiserieWallArt #OrientalPainting #VintageWallDecor #LuxuryWall #ArtHome"
+        },
+        {
+          "copy_cn": "Chinoiserie三联屏｜花鸟主题挂画\n重工手工彩绘，复刻欧洲贵族东方收藏审美。",
+          "copy_en": "Chinoiserie Triptych Bird‑Flower Wall Art\nHeavy hand‑paint craft, recreate European aristocrat oriental collection aesthetic.",
+          "tags": "#ChinoiserieWallArt #OrientalPainting #VintageWallDecor #LuxuryWall #ArtHome"
+        },
+        {
+          "copy_cn": "大尺寸花鸟挂屏｜客厅背景墙\n繁花栖鸟，黑金配色，打造电影感复古墙面。",
+          "copy_en": "Large‑Size Bird‑Flower Wall Screen For Living Room\nBlossom & perching birds, black‑gold palette, cinematic vintage wall look.",
+          "tags": "#ChinoiserieWallArt #OrientalPainting #VintageWallDecor #LuxuryWall #ArtHome"
+        }
+      ]
+    },
+    {
+      "model": "LD-2509-2426",
+      "image": "images/LD-2509-2426.jpg",
+      "product_name": "描金山水花鸟鼓凳",
+      "copies": [
+        {
+          "copy_cn": "黑地鎏金山水鼓凳｜中式绣墩\n镂空雕花，金绘山水仙鹤，可坐可陈列复古坐墩。",
+          "copy_en": "Gilded Landscape Chinoiserie Drum Stool\nOpen‑work carving, gild crane‑landscape paint, seating & display accent stool.",
+          "tags": "#ChinoiserieStool #OrientalSeating #VintageAccent #LuxuryFurniture #AntiqueDecor"
+        },
+        {
+          "copy_cn": "复古描金鼓凳｜山水仙鹤坐墩\n海棠花型轮廓，镂空卷云，满绘山水禽鸟，古典韵味十足。",
+          "copy_en": "Vintage Gild Drum‑Shape Accent Stool\nBegonia‑shape outline, cloud open‑work, full landscape‑bird paint, full classic vibe.",
+          "tags": "#ChinoiserieStool #OrientalSeating #VintageAccent #LuxuryFurniture #AntiqueDecor"
+        },
+        {
+          "copy_cn": "Chinoiserie鎏金鼓凳｜边凳坐墩\n裂纹黑漆，金绘山水仙鹤，既是凳子也是艺术摆件。",
+          "copy_en": "Chinoiserie Gilded Lacquer Drum Stool\nCrackle black lacquer, gild crane‑landscape, stool plus decorative art piece.",
+          "tags": "#ChinoiserieStool #OrientalSeating #VintageAccent #LuxuryFurniture #AntiqueDecor"
+        },
+        {
+          "copy_cn": "东方古典鼓凳｜描金镂空坐墩\n卷云镂空工艺，顶面山水图景，茶室客厅都适配。",
+          "copy_en": "Oriental Classic Open‑Work Drum Stool\nCloud‑shape open‑work craft, top landscape painting, fits tea room & living area.",
+          "tags": "#ChinoiserieStool #OrientalSeating #VintageAccent #LuxuryFurniture #AntiqueDecor"
+        },
+        {
+          "copy_cn": "黑金花鼓凳｜中古风装饰坐具\n海棠式器型，满工描金，氛围感中古软装单品。",
+          "copy_en": "Black‑Gilt Vintage Drum Accent Stool\nBegonia‑style silhouette, full gild detailing, great mid‑century oriental accent.",
+          "tags": "#ChinoiserieStool #OrientalSeating #VintageAccent #LuxuryFurniture #AntiqueDecor"
+        },
+        {
+          "copy_cn": "艺术感坐墩｜山水仙鹤彩绘鼓凳\n金笔勾勒山水灵鹤，摆放在角落也足够吸睛。",
+          "copy_en": "Artistic Landscape‑Crane Drum Stool\nGild brush‑drawn landscape & cranes, eye‑catcher even in corner spot.",
+          "tags": "#ChinoiserieStool #OrientalSeating #VintageAccent #LuxuryFurniture #AntiqueDecor"
+        }
+      ]
+    },
+    {
+      "model": "LD-2511-2428",
+      "image": "images/LD-2511-2428.jpg",
+      "product_name": "黑底鎏金山水彩绘储物茶几",
+      "copies": [
+        {
+          "copy_cn": "黑金山水储物茶几｜国风复古客厅边几\n黑底鎏金手绘山水景致，自带古韵质感，大容量抽屉储物，颜值收纳两不误✨",
+          "copy_en": "Black-Gilt Landscape Storage Coffee Table\nClassic gilded landscape painting on black lacquer, with large storage drawers, beauty and practicality in one.",
+          "tags": "#ChinoiserieTable #VintageHome #LuxuryFurniture #LivingRoomDecor #StorageFurniture"
+        },
+        {
+          "copy_cn": "复古国风茶几｜手绘鎏金山水收纳桌\n重工描金山水彩绘，复古裂纹漆面，抽屉隐藏收纳，客厅软装氛围感神器🏮",
+          "copy_en": "Vintage Chinoiserie Storage Coffee Table\nExquisite gilded landscape artwork, aged lacquer finish and hidden drawers, perfect vintage living room accent.",
+          "tags": "#ChinoiserieStyle #TableDecor #OldWorldLuxury #HomeStyling #VintageVibes"
+        },
+        {
+          "copy_cn": "客厅C位好物✨黑金彩绘储物茶几\n将东方山水画入桌面，鎏金细节高级耐看，多抽屉大容量，告别客厅杂乱",
+          "copy_en": "Stylish Gilded Landscape Coffee Table ✨\nElegant oriental landscape design with premium gilded details, spacious drawers for tidy home storage.",
+          "tags": "#LivingRoomInspo #GiltDecor #StatementFurniture #HomeDecor #FunctionalDesign"
+        },
+        {
+          "copy_cn": "法式中国风茶几｜储物彩绘艺术边桌\n中西美学融合设计，黑金国风山水手绘，兼具陈设颜值与日常收纳功能",
+          "copy_en": "Chinoiserie Painted Storage Accent Table\nEast-west aesthetic fusion, classic black-gilt landscape, combines artistic display and daily storage.",
+          "tags": "#OrientalDecor #ArtFurniture #LuxuryLiving #VintageTable #DecorInspo"
+        },
+        {
+          "copy_cn": "大宅复古软装🖤鎏金山水储物茶几\n复刻西洋古董工艺，满幅山水鎏金彩绘，规整柜体+实用抽屉，大宅客厅标配",
+          "copy_en": "Antique Style Gilded Landscape Coffee Table 🖤\nWestern antique reproduction with full gilded landscape painting, structured cabinet and practical storage drawers.",
+          "tags": "#MansionDecor #AntiqueFurniture #ChinoiserieHome #InteriorDesign #LuxuryInteriors"
+        },
+        {
+          "copy_cn": "古韵轻奢茶几✨多功能山水收纳桌\n冷调黑金高级配色，灵动山水手绘，静音抽屉收纳，适配茶室、客厅全场景",
+          "copy_en": "Luxury Oriental Multi-Functional Coffee Table ✨\nSophisticated black and gold tone, vivid landscape art, practical drawers for tea room and living room usage.",
+          "tags": "#DarkLuxury #TeaRoomDecor #FunctionalFurniture #VintageDecor #HomeGoals"
+        }
+      ]
+    },
+    {
+      "model": "LD-2603-2442",
+      "image": "images/LD-2603-2442.jpg",
+      "product_name": "橘红洛可可描金角几",
+      "copies": [
+        {
+          "copy_cn": "橘红洛可可角几｜鎏金雕花边桌\n橘红漆面，洛可可曲线雕花，桌面东方山水彩绘，浪漫复古边几。",
+          "copy_en": "Rococo Orange‑Red Gild Accent Side Table\nOrange‑red lacquer, rococo scroll carving, oriental landscape tabletop paint, romantic vintage side table.",
+          "tags": "#RococoFurniture #ChinoiserieTable #VintageSideTable #LuxuryAccent #OrnateDecor"
+        },
+        {
+          "copy_cn": "法式雕花边几｜橘红彩绘小茶几\nC型弯腿立体鎏金雕花，台面山水飞鸟，法式东方融合设计。",
+          "copy_en": "French Gild Carved Chinoiserie Side Table\nCabriole leg 3D gild carving, landscape‑bird tabletop, French‑oriental fusion design.",
+          "tags": "#RococoFurniture #ChinoiserieTable #VintageSideTable #LuxuryAccent #OrnateDecor"
+        },
+        {
+          "copy_cn": "复古橘红角几｜洛可可艺术边桌\n华丽浮雕鎏金，彩绘山水图景，沙发旁氛围感担当。",
+          "copy_en": "Vintage Orange‑Red Rococo Accent Table\nGorgeous relief gild carving, painted landscape scene, perfect beside sofa.",
+          "tags": "#RococoFurniture #ChinoiserieTable #VintageSideTable #LuxuryAccent #OrnateDecor"
+        },
+        {
+          "copy_cn": "Chinoiserie洛可可边几｜橘红描金\n法式浪漫雕花，东方山水彩绘，中西碰撞软装单品。",
+          "copy_en": "Chinoiserie Rococo Gild Orange‑Red Side Table\nFrench romantic carving plus oriental landscape paint, east‑west fusion furnishing piece.",
+          "tags": "#RococoFurniture #ChinoiserieTable #VintageSideTable #LuxuryAccent #OrnateDecor"
+        },
+        {
+          "copy_cn": "雕花弯腿边几｜橘红色艺术角桌\n饱满鎏金卷草雕花，托盘式桌沿，精致轻奢小边桌。",
+          "copy_en": "Carved Cabriole‑Leg Orange‑Red Side Table\nPlump gild scroll‑foliage carving, tray‑style rim, exquisite luxury accent table.",
+          "tags": "#RococoFurniture #ChinoiserieTable #VintageSideTable #LuxuryAccent #OrnateDecor"
+        },
+        {
+          "copy_cn": "氛围感法式角几｜山水彩绘边桌\n热烈橘红底色，繁复鎏金，复古客厅亮眼点缀。",
+          "copy_en": "Atmospheric French Chinoiserie Side Table\nVibrant orange‑red base, ornate gild detail, bright accent for vintage living room.",
+          "tags": "#RococoFurniture #ChinoiserieTable #VintageSideTable #LuxuryAccent #OrnateDecor"
+        }
+      ]
+    },
+    {
+      "model": "LD-2607-2480",
+      "image": "images/LD-2607-2480.jpg",
+      "product_name": "黑地描金人物风景玻璃酒柜",
+      "copies": [
+        {
+          "copy_cn": "Chinoiserie人物风景玻璃展示柜\n上玻璃展柜，下彩绘人物柜门，鎏金雕花，复古酒柜陈列柜。",
+          "copy_en": "Chinoiserie Figure‑Scene Glass Display Cabinet\nUpper glass showcase, lower painted figure door, gild carving, vintage curio & wine cabinet.",
+          "tags": "#ChinoiserieCabinet #CurioCabinet #VintageDisplay #LuxuryStorage #OrientalFurniture"
+        },
+        {
+          "copy_cn": "黑金人物彩绘酒柜｜玻璃陈列柜\n通透玻璃展示区，柜体手绘东方市井图景，豪宅陈列家具。",
+          "copy_en": "Black‑Gilt Figure‑Scene Curio Wine Cabinet\nTransparent glass display zone, oriental figure‑scene hand‑paint, luxury showcase furniture.",
+          "tags": "#ChinoiserieCabinet #CurioCabinet #VintageDisplay #LuxuryStorage #OrientalFurniture"
+        },
+        {
+          "copy_cn": "复古玻璃展示柜｜人物山水彩绘柜\n上部陈列藏品，下部收纳，满工鎏金描边，艺术感拉满。",
+          "copy_en": "Vintage Glass Chinoiserie Display Cabinet\nUpper for collectible show, lower for storage, full elaborate gild trim, high artistic sense.",
+          "tags": "#ChinoiserieCabinet #CurioCabinet #VintageDisplay #LuxuryStorage #OrientalFurniture"
+        },
+        {
+          "copy_cn": "法式中国风玻璃酒柜｜人物故事彩绘\n柜面绘制古式人物庭院，鎏金雕花边框，客厅视觉C位。",
+          "copy_en": "French‑Chinoiserie Glass Wine Curio Cabinet\nAncient figure‑courtyard painting on cabinet, gild carved frame, living‑room statement piece.",
+          "tags": "#ChinoiserieCabinet #CurioCabinet #VintageDisplay #LuxuryStorage #OrientalFurniture"
+        },
+        {
+          "copy_cn": "黑地描金陈列柜｜双门玻璃展示柜\n玻璃可视藏品，柜体重工人物风景手绘，收藏级家具。",
+          "copy_en": "Black‑Lacquer Gild Glass Curio Display Cabinet\nGlass for visible collectibles, heavy‑duty figure‑scene paint, collectible‑grade furniture.",
+          "tags": "#ChinoiserieCabinet #CurioCabinet #VintageDisplay #LuxuryStorage #OrientalFurniture"
+        },
+        {
+          "copy_cn": "大宅艺术展示酒柜｜人物风景彩绘\n把东方古庭院画在柜身，展示收纳二合一。",
+          "copy_en": "Luxury Home Artistic Chinoiserie Curio Cabinet\nOriental ancient courtyard painted on cabinet, display & storage all‑in‑one.",
+          "tags": "#ChinoiserieCabinet #CurioCabinet #VintageDisplay #LuxuryStorage #OrientalFurniture"
+        }
+      ]
+    },
+    {
+      "model": "LD-1608-1436",
+      "image": "images/LD-1608-1436.jpg",
+      "product_name": "鎏金雕花复古单人沙发",
+      "copies": [
+        {
+          "copy_cn": "洛可可鎏金单人沙发｜复古贵族扶手椅\n立体木雕鎏金框架，拉扣丝绒软包，法式宫廷复古单椅。",
+          "copy_en": "Rococo Gilded Vintage Accent Armchair\n3D wood‑carved gild frame, tufted velvet upholstery, French palace‑style single chair.",
+          "tags": "#RococoChair #VintageArmchair #LuxurySeating #OrnateFurniture #ClassicHome"
+        },
+        {
+          "copy_cn": "宫廷风雕花单人椅｜金棕丝绒沙发椅\n繁复浮雕雕花，纽扣拉扣靠背，复古客厅气场担当。",
+          "copy_en": "Palace‑Style Gild Carved Single Armchair\nOrnate relief carving, button‑tufted backrest, powerful vintage statement for living room.",
+          "tags": "#RococoChair #VintageArmchair #LuxurySeating #OrnateFurniture #ClassicHome"
+        },
+        {
+          "copy_cn": "复古鎏金扶手椅｜法式贵族单椅\n描金彩绘木框架，金调缎面软包，书房会客高级座椅。",
+          "copy_en": "Vintage Gild French Aristocrat Armchair\nGild painted wooden frame, golden tone satin upholstery, premium seat for study & reception.",
+          "tags": "#RococoChair #VintageArmchair #LuxurySeating #OrnateFurniture #ClassicHome"
+        },
+        {
+          "copy_cn": "洛可可艺术单椅｜雕花丝绒沙发\n大弧度雕花扶手，拉扣软包，复刻欧式古堡家居氛围感。",
+          "copy_en": "Rococo Art‑Style Tufted Velvet Armchair\nLarge‑curve carved armrest, tufted cushion, recreate European castle home vibe.",
+          "tags": "#RococoChair #VintageArmchair #LuxurySeating #OrnateFurniture #ClassicHome"
+        },
+        {
+          "copy_cn": "豪宅复古单人沙发｜鎏木雕花扶手椅\n实木鎏金雕花，撞色提花坐垫，奢华软装焦点家具。",
+          "copy_en": "Luxury Vintage Gild Wood‑Carved Armchair\nSolid‑wood gild carving, contrast jacquard cushion, focal luxury soft furnishing piece.",
+          "tags": "#RococoChair #VintageArmchair #LuxurySeating #OrnateFurniture #ClassicHome"
+        },
+        {
+          "copy_cn": "欧式宫廷风休闲单椅｜金漆雕花沙发\n华丽立体雕饰，质感丝绒面料，沉浸式复古美学。",
+          "copy_en": "European Palace‑Style Leisure Accent Chair\nMagnificent 3D ornament carving, premium velvet fabric, immersive vintage aesthetic.",
+          "tags": "#RococoChair #VintageArmchair #LuxurySeating #OrnateFurniture #ClassicHome"
+        }
+      ]
     }
   ]
 };
