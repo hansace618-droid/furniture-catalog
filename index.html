@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>家具文案库</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f0f2f5;color:#333}
+
+/* 密码锁 */
+.lock-overlay{position:fixed;inset:0;background:linear-gradient(135deg,#1a1a2e,#16213e);display:flex;align-items:center;justify-content:center;z-index:9999;flex-direction:column;gap:20px}
+.lock-overlay.hide{display:none}
+.lock-box{text-align:center}
+.lock-box h1{color:#e94560;font-size:28px;margin-bottom:8px}
+.lock-box p{color:#888;font-size:14px;margin-bottom:24px}
+.lock-input{padding:14px 24px;border:none;border-radius:30px;font-size:16px;width:280px;text-align:center;background:#f5f5f5;outline:none}
+.lock-input:focus{background:white;box-shadow:0 0 0 3px rgba(233,69,96,0.2)}
+.lock-btn{margin-top:16px;padding:12px 40px;border:none;border-radius:30px;background:#e94560;color:white;font-size:16px;cursor:pointer;transition:all .2s}
+.lock-btn:hover{background:#c81e4a;transform:translateY(-1px)}
+.lock-error{color:#e94560;font-size:13px;margin-top:8px;display:none}
+.lock-error.show{display:block}
+
+/* 布局 */
+.header{background:#1a1a2e;color:white;padding:16px 24px;position:sticky;top:0;z-index:100;box-shadow:0 2px 12px rgba(0,0,0,.15)}
+.header h1{font-size:20px;margin-bottom:10px}
+.controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.search-box{flex:1;min-width:180px;padding:10px 16px;border:none;border-radius:8px;font-size:14px;background:white;outline:none}
+.search-box:focus{box-shadow:0 0 0 2px rgba(233,69,96,.3)}
+.filter-btn{padding:7px 16px;border:none;border-radius:20px;background:#16213e;color:#888;cursor:pointer;font-size:13px;transition:all .2s;white-space:nowrap}
+.filter-btn:hover{background:#0f3460;color:#ccc}
+.filter-btn.active{background:#e94560;color:white}
+.stats{color:#666;font-size:13px;padding:6px 0 0 4px}
+
+/* 网格 */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:18px;padding:20px 24px}
+.card{background:white;border-radius:10px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.06);cursor:pointer;transition:all .3s}
+.card:hover{box-shadow:0 6px 20px rgba(0,0,0,.12);transform:translateY(-3px)}
+.card-img-wrap{width:100%;height:180px;overflow:hidden;position:relative;background:linear-gradient(135deg,#667eea,#764ba2)}
+.card-img-wrap img{width:100%;height:100%;object-fit:cover}
+.card-img-fallback{width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.8);font-size:15px;font-weight:600}
+.card-badge{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.6);color:white;padding:3px 10px;border-radius:12px;font-size:12px}
+.card-body{padding:14px}
+.card-model{font-size:12px;color:#aaa;font-family:monospace;margin-bottom:2px}
+.card-name{font-size:16px;font-weight:600;margin-bottom:8px}
+.card-tags{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:6px}
+.card-tag{background:#f0f0f0;color:#666;padding:2px 8px;border-radius:10px;font-size:11px}
+.card-copy-count{font-size:12px;color:#999}
+.empty{text-align:center;padding:80px 20px;color:#999;font-size:15px}
+
+/* 弹窗 */
+.modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:200;justify-content:center;align-items:flex-start;padding:30px 16px;overflow-y:auto}
+.modal-overlay.show{display:flex}
+.modal{background:white;border-radius:14px;max-width:680px;width:100%;margin:auto}
+.modal-header{display:flex;justify-content:space-between;align-items:center;padding:16px 20px;border-bottom:1px solid #eee;position:sticky;top:0;background:white;border-radius:14px 14px 0 0;z-index:10}
+.modal-header h2{font-size:18px;font-weight:600}
+.modal-header .model-tag{font-size:12px;color:#aaa;font-family:monospace;margin-left:8px}
+.close-btn{background:none;border:none;font-size:26px;cursor:pointer;color:#999;padding:0 6px;line-height:1}
+.modal-img{width:100%;height:280px;object-fit:cover;background:linear-gradient(135deg,#667eea,#764ba2)}
+.modal-img-fallback{width:100%;height:280px;display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,.7);font-size:18px;font-weight:600}
+.copy-block{padding:18px 20px;border-bottom:1px solid #f0f0f0}
+.copy-block:last-child{border-bottom:none}
+.copy-block-title{font-size:14px;font-weight:600;color:#e94560;margin-bottom:12px}
+.copy-section{margin-bottom:14px}
+.copy-section:last-child{margin-bottom:0}
+.copy-label{display:flex;justify-content:space-between;align-items:center;margin-bottom:5px}
+.copy-label-text{font-size:12px;color:#aaa;text-transform:uppercase;letter-spacing:.5px}
+.copy-btn{padding:5px 14px;background:#1a1a2e;color:white;border:none;border-radius:6px;cursor:pointer;font-size:12px;transition:all .2s}
+.copy-btn:hover{background:#e94560}
+.copy-btn.done{background:#4caf50}
+.copy-content{font-size:14px;line-height:1.7;color:#444;background:#fafafa;padding:10px 14px;border-radius:8px;white-space:pre-wrap;word-break:break-word}
+.copy-tags{margin-top:10px}
+.copy-tags .tag-chip{display:inline-block;background:#e8f0fe;color:#1a73e8;padding:3px 10px;border-radius:10px;font-size:12px;margin-right:6px;margin-bottom:4px}
+.copy-all-btn{margin-top:12px;width:100%;padding:10px;background:#1a1a2e;color:white;border:none;border-radius:8px;cursor:pointer;font-size:14px;transition:all .2s}
+.copy-all-btn:hover{background:#e94560}
+.copy-all-btn.done{background:#4caf50}
+
+@media(max-width:600px){
+  .grid{grid-template-columns:1fr;padding:12px}
+  .controls{flex-direction:column;align-items:stretch}
+  .filter-btn{width:fit-content}
+}
+</style>
+</head>
+<body>
+
+<!-- 密码锁 -->
+<div class="lock-overlay" id="lockOverlay">
+  <div class="lock-box">
+    <h1>🪑 家具文案库</h1>
+    <p>请输入访问密码</p>
+    <input type="password" class="lock-input" id="pwdInput" placeholder="密码" onkeydown="if(event.key==='Enter')checkPwd()">
+    <br>
+    <button class="lock-btn" onclick="checkPwd()">进入</button>
+    <div class="lock-error" id="pwdError">密码错误，请重试</div>
+  </div>
+</div>
+
+<!-- 主体 -->
+<div class="header">
+  <h1>🪑 家具文案库</h1>
+  <div class="controls">
+    <input type="text" class="search-box" id="search" placeholder="🔍 搜型号、产品名、文案内容、标签…" oninput="render()">
+    <div id="tagFilters" style="display:flex;gap:8px;flex-wrap:wrap"></div>
+  </div>
+  <div class="stats" id="stats"></div>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<!-- 弹窗 -->
+<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal" id="modalContent"></div>
+</div>
+
+<script src="data.js"></script>
+<script>
+// 密码设置 — 在浏览器控制台输入 btoa("你的密码") 获取编码值，替换下方
+const PWD_KEY = "aGFuc2FjZTYxOA=="; // 默认密码: hansace618
+
+function checkPwd() {
+  const input = document.getElementById('pwdInput').value;
+  if (btoa(input) === PWD_KEY) {
+    document.getElementById('lockOverlay').classList.add('hide');
+    render();
+  } else {
+    document.getElementById('pwdError').classList.add('show');
+    document.getElementById('pwdInput').value = '';
+    setTimeout(() => document.getElementById('pwdError').classList.remove('show'), 2500);
+  }
+}
+
+const products = (typeof CATALOG_DATA !== 'undefined') ? CATALOG_DATA.products : [];
+let currentTag = 'all';
+
+// 收集所有标签做筛选按钮
+function getAllTags() {
+  const tags = new Set();
+  products.forEach(p => p.copies.forEach(c => {
+    (c.tags || '').split(/\s+/).forEach(t => t.trim() && tags.add(t.trim()));
+  }));
+  return Array.from(tags);
+}
+
+function renderTagFilters() {
+  const tags = getAllTags();
+  const container = document.getElementById('tagFilters');
+  container.innerHTML = `<button class="filter-btn ${currentTag==='all'?'active':''}" onclick="setTag('all')">全部</button>` +
+    tags.map(t => `<button class="filter-btn ${currentTag===t?'active':''}" onclick="setTag('${t.replace(/'/g,"\\'")}')">${t}</button>`).join('');
+}
+
+function setTag(t) { currentTag = t; renderTagFilters(); render(); }
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase().trim();
+  const filtered = products.filter(p => {
+    const matchTag = currentTag === 'all' || p.copies.some(c => (c.tags||'').includes(currentTag));
+    const matchQ = !q || p.model.toLowerCase().includes(q) ||
+      p.product_name.toLowerCase().includes(q) ||
+      p.copies.some(c => (c.copy_cn||'').toLowerCase().includes(q) || (c.copy_en||'').toLowerCase().includes(q) || (c.tags||'').toLowerCase().includes(q));
+    return matchTag && matchQ;
+  });
+
+  document.getElementById('stats').textContent = `共 ${products.length} 个产品 · ${filtered.length} 个匹配 · ${products.reduce((s,p)=>s+p.copies.length,0)} 条文案`;
+
+  if (!filtered.length) { document.getElementById('grid').innerHTML = '<div class="empty">😅 没找到相关产品，试试其他关键词</div>'; return; }
+
+  document.getElementById('grid').innerHTML = filtered.map(p => {
+    const imgHtml = p.image
+      ? `<div class="card-img-wrap"><img src="${p.image}" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"><div class="card-img-fallback" style="display:none">${p.product_name}</div></div>`
+      : `<div class="card-img-wrap"><div class="card-img-fallback">${p.product_name}</div></div>`;
+    const allTags = [...new Set(p.copies.flatMap(c => (c.tags||'').split(/\s+/).map(t=>t.trim()).filter(Boolean)))];
+    return `<div class="card" onclick="openModal('${p.model}')">
+      ${imgHtml}
+      <div class="card-badge">${p.copies.length} 条文案</div>
+      <div class="card-body">
+        <div class="card-model">${p.model}</div>
+        <div class="card-name">${p.product_name}</div>
+        <div class="card-tags">${allTags.slice(0,5).map(t=>`<span class="card-tag">${t}</span>`).join('')}</div>
+        <div class="card-copy-count">${p.copies.length} 条文案可用</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function openModal(model) {
+  const p = products.find(x => x.model === model);
+  if (!p) return;
+
+  const imgHtml = p.image
+    ? `<div class="modal-img"><img src="${p.image}" style="width:100%;height:100%;object-fit:cover" onerror="this.parentElement.innerHTML='<div class=\\'modal-img-fallback\\' style=\\'display:flex\\'>${p.product_name}</div>'"></div>`
+    : `<div class="modal-img modal-img-fallback">${p.product_name}</div>`;
+
+  const copiesHtml = p.copies.map((c, i) => {
+    const tags = (c.tags||'').split(/\s+/).filter(Boolean);
+    const allText = `${c.copy_cn||''}\n${c.copy_en||''}\n\n${c.tags||''}`;
+    return `<div class="copy-block">
+      <div class="copy-block-title">文案 ${i+1}</div>
+      <div class="copy-section">
+        <div class="copy-label"><span class="copy-label-text">文案 · 中文</span><button class="copy-btn" onclick="copyText(this,'${escJS(c.copy_cn)}')">复制</button></div>
+        <div class="copy-content">${escHTML(c.copy_cn)}</div>
+      </div>
+      <div class="copy-section">
+        <div class="copy-label"><span class="copy-label-text">Copy · English</span><button class="copy-btn" onclick="copyText(this,'${escJS(c.copy_en)}')">Copy</button></div>
+        <div class="copy-content">${escHTML(c.copy_en)}</div>
+      </div>
+      <div class="copy-tags">${tags.map(t=>`<span class="tag-chip">${t}</span>`).join('')}<button class="copy-btn" style="margin-left:auto" onclick="copyText(this,'${escJS(c.tags)}')">复制标签</button></div>
+      <button class="copy-all-btn" onclick="copyText(this,'${escJS(allText)}')">📋 一键复制全套</button>
+    </div>`;
+  }).join('');
+
+  document.getElementById('modalContent').innerHTML = `
+    <div class="modal-header">
+      <div><h2>${escHTML(p.product_name)}</h2><span class="model-tag">${p.model}</span></div>
+      <button class="close-btn" onclick="closeModal()">✕</button>
+    </div>
+    ${imgHtml}
+    ${copiesHtml}
+  `;
+  document.getElementById('modalOverlay').classList.add('show');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('show');
+  document.body.style.overflow = '';
+}
+
+function copyText(btn, text) {
+  navigator.clipboard.writeText(text).then(() => {
+    const orig = btn.textContent;
+    btn.classList.add('done');
+    btn.textContent = '✓ 已复制';
+    setTimeout(() => { btn.classList.remove('done'); btn.textContent = orig; }, 2000);
+  });
+}
+
+function escJS(s) { return (s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/\n/g,'\\n'); }
+function escHTML(s) { return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/\n/g,'<br>'); }
+
+// 初始化
+renderTagFilters();
+</script>
+</body>
+</html>
