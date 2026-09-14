@@ -100,41 +100,49 @@ def write_data_js(data):
 
 
 def git_push():
-    """git add → commit → push"""
+    """git add -> commit -> push"""
     os.chdir(SCRIPT_DIR)
 
+    def run_git(args):
+        """运行 git 命令，处理 Windows 编码问题"""
+        return subprocess.run(
+            ["git"] + args,
+            capture_output=True, text=True,
+            encoding="utf-8", errors="replace"
+        )
+
     # 检查是否 git 仓库
-    r = subprocess.run(["git", "rev-parse", "--is-inside-work-tree"],
-                       capture_output=True, text=True)
+    r = run_git(["rev-parse", "--is-inside-work-tree"])
     if r.returncode != 0:
-        print("⚠️ 当前目录不是 git 仓库，请先初始化:")
-        print("   git init")
-        print("   git remote add origin https://github.com/hansace618-droid/furniture-catalog.git")
+        print("[!] 当前目录不是 git 仓库，请先初始化:")
+        print("    git init")
+        print("    git remote add origin https://github.com/hansace618-droid/furniture-catalog.git")
         return False
 
-    subprocess.run(["git", "add", "."], check=True)
+    run_git(["add", "."])
 
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M")
-    commit_msg = f"更新产品库 {timestamp}"
+    commit_msg = f"update catalog {timestamp}"
 
-    r = subprocess.run(["git", "commit", "-m", commit_msg],
-                       capture_output=True, text=True)
-    if "nothing to commit" in r.stdout or "no changes" in r.stdout:
-        print("⚠️ 没有变更，跳过提交")
+    r = run_git(["commit", "-m", commit_msg])
+    out = (r.stdout or "") + (r.stderr or "")
+    if "nothing to commit" in out or "no changes" in out:
+        print("[!] 没有变更，跳过提交")
         return True
 
-    if r.returncode != 0 and "nothing to commit" not in r.stdout:
-        print(f"⚠️ commit 出错: {r.stderr}")
-        return False
-
-    r = subprocess.run(["git", "push"], capture_output=True, text=True)
     if r.returncode != 0:
-        print(f"⚠️ push 出错: {r.stderr}")
-        print("💡 如果是认证问题，请配置 git 凭证或 SSH key")
+        print(f"[!] commit 出错: {out}")
         return False
 
-    print("🚀 已推送到 GitHub!")
-    print("🌐 访问: https://hansace618-droid.github.io/furniture-catalog/")
+    r = run_git(["push"])
+    out = (r.stdout or "") + (r.stderr or "")
+    if r.returncode != 0:
+        print(f"[!] push 出错: {out}")
+        print("[?] 如果是认证问题，请配置 git 凭证或 SSH key")
+        return False
+
+    print("[OK] 已推送到 GitHub!")
+    print("    https://hansace618-droid.github.io/furniture-catalog/")
     return True
 
 
