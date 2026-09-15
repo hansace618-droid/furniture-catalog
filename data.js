@@ -2647,6 +2647,43 @@ const CATALOG_DATA = {
           "tags": "#ChinoiserieCasketBox #RedHomeDecor #LotusBirdPainting #VintageStorageBox #TableOrnament"
         }
       ]
+    },
+    {
+      "model": "LD-1203-0787-2607B",
+      "image": "images/LD-1203-0787-2607B.jpg",
+      "product_name": "亭阁式描金彩绘高柜",
+      "copies": [
+        {
+          "copy_cn": "中式亭阁描金彩绘高柜｜复古艺术家具\n亭阁屋顶造型，黑漆描金手绘庭院人物，东方古典氛围感拉满✨",
+          "copy_en": "Pagoda‑Style Gilded Painted Tall Cabinet\nPagoda roof design, black lacquer with hand‑painted courtyard figures, full of oriental vintage charm✨",
+          "tags": "#ChinoiserieFurniture #VintageHome #GildedDecor #AntiqueStyle #OrientalDecor"
+        },
+        {
+          "copy_cn": "一眼沦陷｜法式中国风亭阁展示高柜\n螺旋立柱+镂空格子，手绘漆艺，既是柜子也是空间艺术品。",
+          "copy_en": "Stunning Chinoiserie Pagoda Display Cabinet\nTwisted columns & open latticework, hand‑painted lacquer art, more than storage,it’s a room statement piece.",
+          "tags": "#ChinoiserieStyle #LacquerFurniture #VintageInterior #HomeDecor #AntiqueFurniture"
+        },
+        {
+          "copy_cn": "黑底鎏金亭阁柜｜把东方古景搬进家里\n亭台楼阁人物彩绘，精致雕花描金，提升家居格调的吸睛单品。",
+          "copy_en": "Black Gilded Pagoda Cabinet Brings Oriental Scenery Home\nHand‑painted pavilion & figure scenes, exquisite carved gilding, eye‑catching piece elevating home style.",
+          "tags": "#OrientalHome #GildedFurniture #VintageChinoiserie #LuxuryDecor #StatementPiece"
+        },
+        {
+          "copy_cn": "复古亭阁装饰高柜｜漆绘工艺藏品级家具\n顶部仿古亭造型，柜门彩绘童趣庭院，兼具展示与收纳功能。",
+          "copy_en": "Vintage Pagoda Accent Cabinet With Lacquer Craft\nAncient pavilion‑shape top, cabinet doors painted with lively courtyard scene, for display & storage.",
+          "tags": "#LacquerArt #AntiqueDecor #ChinoiserieHome #LuxuryHome #AccentFurniture"
+        },
+        {
+          "copy_cn": "氛围感王者｜描金亭阁中式展示立柜\n黑漆底鎏金纹饰，细节拉满，短视频感受古典家具的惊艳质感。",
+          "copy_en": "Vibe‑Boosting Gilded Pagoda Display Tall Cabinet\nBlack lacquer base with rich gilded patterns, incredible details, feel classic furniture charm in short video.",
+          "tags": "#VintageVibes #ChinoiserieDecor #OrientalFurniture #LuxuryInterior #DecorInspo"
+        },
+        {
+          "copy_cn": "小众艺术柜｜亭阁造型描金彩绘玄关高柜\n罕见亭阁顶盖设计，手绘人物图景，放在玄关客厅直接成为视觉焦点。",
+          "copy_en": "Unique Art Pagoda Cabinet, Gilded Painted Entryway Tall Cabinet\nRare pagoda roof top, hand‑painted figure murals, becomes visual highlight for entryway & living room.",
+          "tags": "#UniqueFurniture #EntrywayDecor #ChinoiserieArt #VintageLuxury #HomeStatement"
+        }
+      ]
     }
   ]
 };
