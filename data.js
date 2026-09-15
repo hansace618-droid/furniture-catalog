@@ -2684,6 +2684,450 @@ const CATALOG_DATA = {
           "tags": "#UniqueFurniture #EntrywayDecor #ChinoiserieArt #VintageLuxury #HomeStatement"
         }
       ]
+    },
+    {
+      "model": "LD-1408-1236",
+      "image": "images/LD-1408-1236.jpg",
+      "product_name": "银箔花鸟手绘电子壁炉",
+      "copies": [
+        {
+          "copy_cn": "银箔描金花鸟手绘壁炉｜法式艺术电壁炉\n银箔基底手绘花鸟蝴蝶，鎏金雕花边框，氛围感电子壁炉✨",
+          "copy_en": "Silver‑Leaf Hand‑Painted Floral Bird Electric Fireplace\nSilver‑leaf base with hand‑painted birds & butterflies, gilded carved frame, atmospheric electric fireplace✨",
+          "tags": "#FrenchDecor #FireplaceMantel #ChinoiserieHome #LuxuryInterior #VintageDecor"
+        },
+        {
+          "copy_cn": "法式中国风壁炉｜花鸟手绘装饰电壁炉\n精致鎏金浮雕，花鸟手绘漆面，仿真火焰，客厅的视觉焦点。",
+          "copy_en": "Chinoiserie Style Decorative Electric Fireplace\nExquisite gilded relief, hand‑painted bird‑flower lacquer finish, realistic flame, eye‑catcher for living room.",
+          "tags": "#MantelDecor #LacquerFurniture #LuxuryHome #AntiqueVibes #HomeAccent"
+        },
+        {
+          "copy_cn": "氛围感神器｜银底鎏金彩绘电子壁炉\n手工彩绘花鸟纹样，华丽雕花边框，不用真火也拥有复古壁炉仪式感。",
+          "copy_en": "Vibe Booster Silver Gilded Painted Electric Fireplace\nHand‑painted bird‑flower motifs, ornate carved frame, vintage fireplace ritual without real fire.",
+          "tags": "#StatementPiece #FrenchChateau #OrientalDecor #DecorInspo #GildedFurniture"
+        },
+        {
+          "copy_cn": "复古彩绘壁炉架｜法式轻奢电子壁炉\n银箔做旧工艺，繁花飞鸟手绘，把古堡氛围感搬入现代家居。",
+          "copy_en": "Vintage Painted Fireplace Surround, French Luxury Electric Fireplace\nAged silver‑leaf craft, hand‑painted flowers & birds, bring chateau vibe to modern home.",
+          "tags": "#ChateauHome #VintageFireplace #LuxuryLiving #WallAccent #ArtHomeDecor"
+        },
+        {
+          "copy_cn": "高级感拉满｜手绘花鸟鎏金装饰壁炉\n大面积手绘画面搭配繁复金雕，仿真炭火，短视频感受法式奢华。",
+          "copy_en": "High‑End Gilded Decor Fireplace With Hand‑Painted Bird‑Flower\nLarge hand‑painted artwork paired with intricate gold carvings, realistic embers, experience French luxury in short video.",
+          "tags": "#FrenchInterior #ChinoiserieDecor #LuxuryMansion #HomeStyling #OrnateDecor"
+        },
+        {
+          "copy_cn": "小众艺术电壁炉｜银箔花鸟描金壁炉柜\n少见银箔底色，花鸟蝴蝶手绘，可做客厅隔断、背景装饰。",
+          "copy_en": "Unique Art Electric Fireplace, Silver‑Leaf Bird‑Flower Gilded Mantel\nRare silver‑leaf background, hand‑painted birds butterflies, works as room divider & wall backdrop decor.",
+          "tags": "#UniqueHomeDecor #EntrywayAccent #VintageLuxury #LacquerArt #DecorGoal"
+        }
+      ]
+    },
+    {
+      "model": "LD-1703-1505",
+      "image": "images/LD-1703-1505.jpg",
+      "product_name": "鎏金雕花法式古典大床",
+      "copies": [
+        {
+          "copy_cn": "洛可可鎏金雕花大床｜法式古典主卧床具\n通体立体鎏金雕刻，板绘花卉纹样，恢弘大气的贵族风大床✨",
+          "copy_en": "Rococo Gilded Carved Bed, French Classic Master Bed\nFull‑body 3D gilded carving, panel painted floral motifs, magnificent aristocratic‑style bed✨",
+          "tags": "#FrenchBed #RococoStyle #GildedFurniture #LuxuryBedroom #VintageInterior"
+        },
+        {
+          "copy_cn": "古堡主卧标配｜重工描金彩绘法式大床\n床头床尾满工雕花描金，手绘彩漆，打造复古华丽卧室氛围。",
+          "copy_en": "Chateau‑Worthy Heavy‑Craft Gilded Painted French Bed\nFull carved gilding on headboard & footboard, hand‑painted lacquer, build gorgeous vintage bedroom vibe.",
+          "tags": "#LuxuryBed #ChateauBedroom #OrnateFurniture #AntiqueStyle #HomeDecor"
+        },
+        {
+          "copy_cn": "贵气感爆棚｜全鎏金浮雕法式双人床\n繁复卷草花卉雕刻，彩漆手绘点缀，主卧一眼惊艳的中心家具。",
+          "copy_en": "Opulent Full Gilded Relief French Double Bed\nIntricate scroll‑floral carvings accented by hand‑painted lacquer, stunning centerpiece for master bedroom.",
+          "tags": "#StatementFurniture #FrenchLuxury #BedroomGoals #GildedDecor #VintageHome"
+        },
+        {
+          "copy_cn": "复古宫廷大床｜彩绘描金实木法式床\n实木重工雕刻，鎏金做旧，搭配彩绘面板，复刻欧洲贵族卧室。",
+          "copy_en": "Vintage Palace‑Style Solid Wood Gilded Painted French Bed\nHeavy‑duty solid wood carving, aged gilding with painted panels, recreate European aristocrat bedroom.",
+          "tags": "#PalaceDecor #SolidWoodFurniture #RococoFurniture #BedroomInspo #LuxuryLiving"
+        },
+        {
+          "copy_cn": "沉浸式法式宫廷｜鎏金彩绘古典双人床\n从床头到床尾完整雕花鎏金，色彩柔和雅致，短视频感受古堡卧室。",
+          "copy_en": "Immersive French Palace Gilded Painted Classic Double Bed\nComplete carved gilding from headboard to footboard, soft elegant tones, experience chateau bedroom in short video.",
+          "tags": "#FrenchChateauHome #MasterBed #OrnateBed #VintageVibes #DecorGoal"
+        },
+        {
+          "copy_cn": "收藏级法式大床｜浮雕描金彩绘婚床\n大尺寸贵族床体，浮雕花卉人物彩绘，别墅大主卧首选单品。",
+          "copy_en": "Collectible‑Grade French Bed, Relief Gilded Painted Wedding Bed\nOversized aristocrat bed frame, relief floral‑figure painting, ideal piece for villa master suite.",
+          "tags": "#VillaFurniture #WeddingBed #LuxuryMansion #AntiqueBed #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "LD-2207-2105",
+      "image": "images/LD-2207-2105.jpg",
+      "product_name": "白蓝软包鎏金法式大床",
+      "copies": [
+        {
+          "copy_cn": "白蓝拉扣软包鎏金床｜洛可可法式双人床\n菱格拉扣软包床头，白蓝手绘花卉，鎏金涡卷雕花，浪漫法式主卧✨",
+          "copy_en": "White‑Blue Tufted Gilded French Rococo Double Bed\nDiamond tufted upholstered headboard, white‑blue hand‑painted florals, gilded scroll carvings, romantic French master bedroom✨",
+          "tags": "#UpholsteredBed #RococoBed #FrenchBedroom #GildedDecor #LuxuryHome"
+        },
+        {
+          "copy_cn": "温柔法式宫廷床｜软包描金彩绘大床\n饱满拉扣软包，床身手绘花卉，华丽鎏金雕花，兼顾舒适与华丽。",
+          "copy_en": "Soft French Palace‑Style Upholstered Gilded Painted Bed\nPlush tufted upholstery, bed frame hand‑painted florals, gorgeous gilded carvings, comfort meets grandeur.",
+          "tags": "#BedroomGoals #OrnateBed #PaintedFurniture #VintageInterior #DecorInspo"
+        },
+        {
+          "copy_cn": "清新贵族感｜白蓝鎏金软包法式婚床\n奶白底色搭配淡蓝描金，软包缓冲，彩绘花卉，别墅主卧浪漫之选。",
+          "copy_en": "Fresh Aristocrat Vibe White‑Blue Gilded Tufted French Wedding Bed\nCream‑white base with pale‑blue gilding, cushioned upholstery, floral painting, romantic pick for villa master suite.",
+          "tags": "#WeddingBed #VillaBedroom #FrenchLuxury #StatementBed #HomeStyling"
+        },
+        {
+          "copy_cn": "洛可可美学｜软包描金彩绘实木双人床\n实木框架，菱格拉扣软包靠背，床沿手绘花卉鎏金，复古柔美。",
+          "copy_en": "Rococo Aesthetic Upholstered Gilded Painted Solid Wood Double Bed\nSolid wood frame, diamond‑tufted upholstered headboard, bed‑side hand‑painted gilded florals, soft vintage charm.",
+          "tags": "#SolidWoodBed #RococoFurniture #PastelDecor #LuxuryBed #VintageVibes"
+        },
+        {
+          "copy_cn": "一眼心动法式床｜蓝白软包鎏金雕花大床\n浅调配色弱化厚重感，拉扣软包靠背，细节雕花彩绘，短视频欣赏工艺。",
+          "copy_en": "Eye‑Catching French Bed, Blue‑White Tufted Gilded Carved Bed\nLight‑toned palette reduces heaviness, tufted headboard, detailed carving & painting, admire craftsmanship in short video.",
+          "tags": "#FrenchChateau #BedroomInspo #GildedFurniture #PastelHome #OrnateDecor"
+        },
+        {
+          "copy_cn": "轻奢复古主卧床｜彩绘鎏金软包法式床\n软包提升睡眠氛围感，床身手工漆绘，鎏金涡卷雕花，适配法式、洛可可家装。",
+          "copy_en": "Light‑Luxury Vintage Master Bed, Painted Gilded Upholstered French Bed\nUpholstery boosts sleeping ambiance, hand‑lacquered bed frame, gilded scroll carvings, fits French & Rococo interiors.",
+          "tags": "#LuxuryBedroom #PaintedBed #UniqueFurniture #MansionDecor #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "LD-2603-2460",
+      "image": "images/LD-2603-2460.jpg",
+      "product_name": "米白描金花卉法式大床",
+      "copies": [
+        {
+          "copy_cn": "米白描金花卉法式床｜洛可可复古双人床\n米白漆面底色，手绘缤纷花卉，涡卷鎏金浮雕，温柔复古主卧✨",
+          "copy_en": "Cream Gilded Floral French Rococo Vintage Double Bed\nCream lacquer base, hand‑painted colourful florals, scroll gilded relief, soft vintage master bedroom✨",
+          "tags": "#CreamHome #FrenchVintageBed #RococoStyle #PaintedFurniture #LuxuryInterior"
+        },
+        {
+          "copy_cn": "奶油复古风｜描金彩绘法式实木大床\n米白柔和底色，床头床尾立体雕花，手工花卉彩绘，优雅的宫廷卧室。",
+          "copy_en": "Creamy Vintage Vibe Gilded Painted Solid Wood French Bed\nSoft cream base, 3D carvings on head & foot board, hand‑painted florals, elegant palace‑style bedroom.",
+          "tags": "#CreamAesthetic #OrnateBed #VintageBedroom #AntiqueDecor #HomeDecor"
+        },
+        {
+          "copy_cn": "温柔古堡主卧｜米白鎏金花卉法式婚床\n不张扬的米白调，繁复鎏金雕花搭配手绘花绘，别墅婚房优选。",
+          "copy_en": "Gentle Chateau‑Style Master Bedroom Cream Gilded Floral Wedding Bed\nUnderstated cream tone, intricate gilded carvings with hand‑painted blooms, great option for villa wedding bedroom.",
+          "tags": "#WeddingBed #VillaHome #FrenchChateau #StatementPiece #DecorInspo"
+        },
+        {
+          "copy_cn": "洛可可彩绘床｜米白底鎏金浮雕双人床\n实木手工雕刻，米白做旧漆面，彩色花卉手绘，弱化奢华的厚重感。",
+          "copy_en": "Rococo Painted Bed, Cream‑Base Gilded Relief Double Bed\nHand‑carved solid wood, aged cream lacquer, colourful floral painting, lessen heavy grandeur.",
+          "tags": "#SolidWoodFurniture #PastelVintage #BedroomGoals #GildedFurniture #VintageHome"
+        },
+        {
+          "copy_cn": "优雅法式宫廷床｜米白描金花卉雕花床\n卷草花卉浮雕环绕床体，手绘花朵点缀，短视频感受柔和宫廷美学。",
+          "copy_en": "Elegant French Palace Bed, Cream Gilded Floral Carved Bed\nScroll‑floral relief surrounding bed frame, accent hand‑painted blossoms, enjoy soft palace aesthetics in short video.",
+          "tags": "#FrenchBedroom #RococoDecor #OrnateFurniture #CreamDecor #HomeVibes"
+        },
+        {
+          "copy_cn": "大户型复古床｜米白彩绘鎏金法式双人床\n宽大床体，全床雕花彩绘鎏金，适配法式、欧式复古大宅空间。",
+          "copy_en": "Large‑Size Vintage Bed, Cream Painted Gilded French Double Bed\nSpacious bed frame, full‑body carved painted gilding, perfect for French & European vintage large residence.",
+          "tags": "#MansionBedroom #EuropeanHome #PaintedBed #UniqueHome #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "LD-2603-2465",
+      "image": "images/LD-2603-2465.jpg",
+      "product_name": "黑檀重工雕刻壁炉",
+      "copies": [
+        {
+          "copy_cn": "黑檀重工浮雕壁炉｜暗黑复古法式电壁炉\n黑底鎏金巨型浮雕，藤蔓花果立体雕刻，气场强大的电子壁炉✨",
+          "copy_en": "Dark Ebony Heavy‑Relief Fireplace, Dark‑Vintage French Electric Fireplace\nBlack base with huge gilded relief, 3D vine‑fruit carving, high‑presence electric fireplace✨",
+          "tags": "#DarkLuxury #FireplaceMantel #OrnateCarving #GildedDecor #VintageInterior"
+        },
+        {
+          "copy_cn": "暗黑古堡风壁炉｜实木重工雕刻电壁炉\n深邃黑檀色调，巨幅立体雕花，鎏金勾边，仿真炭火，客厅气场担当。",
+          "copy_en": "Dark Chateau‑Style Fireplace, Heavy‑Carved Solid Wood Electric Fireplace\nDeep ebony tone, massive 3D carvings, gilded trim, realistic embers, powerhouse statement for living room.",
+          "tags": "#DarkAesthetic #MantelDecor #AntiqueFireplace #LuxuryHome #HomeAccent"
+        },
+        {
+          "copy_cn": "气场拉满｜黑檀鎏金浮雕装饰壁炉\n满铺花果藤蔓浮雕，黑底金纹强烈对比，大别墅客厅吸睛摆件。",
+          "copy_en": "High‑Presence Ebony Gilded Relief Decorative Fireplace\nDense fruit‑vine relief carvings, striking black‑gold contrast, eye‑catching piece for large villa living room.",
+          "tags": "#StatementFurniture #DarkChateau #CarvedFurniture #DecorGoal #LuxuryMansion"
+        },
+        {
+          "copy_cn": "复古暗黑宫廷壁炉｜实木雕刻电子壁炉架\n厚重实木结构，两侧巨型涡卷雕花，黑金撞色，复刻欧洲古堡大宅。",
+          "copy_en": "Vintage Dark Palace Fireplace, Solid‑Wood Carved Electric Fireplace Surround\nSubstantial solid‑wood build, giant scroll carvings on both sides, black‑gold contrast, recreate European chateau mansion.",
+          "tags": "#PalaceDecor #DarkVintage #FireplaceDecor #OrnateHome #VintageDecor"
+        },
+        {
+          "copy_cn": "暗黑系艺术壁炉｜黑檀立体雕花鎏金壁炉\n雕刻层次丰富，黑金配色贵气冷峻，短视频感受复古暗黑奢华质感。",
+          "copy_en": "Dark‑Tone Art Fireplace, Ebony 3D‑Carved Gilded Mantel\nMulti‑layer detailed carving, noble & cool black‑gold palette, feel dark vintage luxury texture in short video.",
+          "tags": "#DarkDecorInspo #CarvedArt #FrenchChateau #MansionInterior #GildedFurniture"
+        },
+        {
+          "copy_cn": "收藏级重工壁炉｜黑檀描金雕花电子壁炉\n难度极高的通版浮雕工艺，黑金配色，适合大宅客厅、会所空间。",
+          "copy_en": "Collectible Heavy‑Craft Fireplace, Ebony Gilded Carved Electric Fireplace\nHigh‑difficulty full‑panel relief craft, black‑gold palette, fits mansion living room & club space.",
+          "tags": "#CollectibleFurniture #ClubDecor #UniqueMantel #DarkLuxuryHome #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "Space-Scenarios-1",
+      "image": "images/Space-Scenarios-1.jpg",
+      "product_name": "蓝白法式宫廷沙发组合",
+      "copies": [
+        {
+          "copy_cn": "蓝白鎏金宫廷沙发组｜洛可可法式客厅套装\n雾霾蓝软包搭配米白鎏金框架，手绘花卉，完整客厅沙发茶几组合✨",
+          "copy_en": "Blue‑White Gilded Palace Sofa Set, Rococo French Living Room Suite\nDusty‑blue upholstery with cream gilded frame, hand‑painted florals, complete sofa‑coffee‑table living‑room set✨",
+          "tags": "#FrenchSofaSet #RococoLiving #GildedFurniture #LuxuryLivingRoom #VintageInterior"
+        },
+        {
+          "copy_cn": "古堡客厅成套家具｜蓝白彩绘鎏金沙发组合\n多人沙发+单人椅+玻璃茶几，软包饱满，描金雕花彩绘，成套氛围感。",
+          "copy_en": "Chateau Complete Living‑Room Furniture, Blue‑White Painted Gilded Sofa Suite\nSofa + armchairs + glass‑top coffee table, plush upholstery, gilded carved painting, full‑set ambiance.",
+          "tags": "#LivingRoomSet #OrnateSofa #PaintedFurniture #ChateauHome #HomeDecor"
+        },
+        {
+          "copy_cn": "浪漫法式客厅｜雾霾蓝鎏金雕花沙发套件\n高级蓝调软包中和金色华丽，手工漆绘花卉，别墅客厅成套首选。",
+          "copy_en": "Romantic French Living Room, Dusty‑Blue Gilded Carved Sofa Suite\nElegant blue upholstery balances golden grandeur, hand‑lacquered florals, top pick for villa living room.",
+          "tags": "#VillaLiving #StatementSofa #FrenchLuxury #DecorInspo #HomeStyling"
+        },
+        {
+          "copy_cn": "洛可可成套沙发｜蓝软包白漆鎏金客厅组合\n实木雕花框架，柔和蓝色布艺软包，茶几带镜面层，复古华丽成套搭配。",
+          "copy_en": "Rococo Complete Sofa Suite, Blue‑Upholstered White‑Lacquer Gilded Living‑Room Set\nCarved solid‑wood frame, soft blue fabric upholstery, mirror‑shelf coffee table, gorgeous vintage full‑set match.",
+          "tags": "#SolidWoodSofa #PastelLuxury #LivingRoomGoals #RococoStyle #VintageHome"
+        },
+        {
+          "copy_cn": "一眼沦陷宫廷客厅｜蓝白鎏金沙发家具套装\n沙发、单人椅、圆茶几全套配齐，雕花彩绘细节满满，短视频看完整空间效果。",
+          "copy_en": "Stunning Palace‑Style Living Room, Blue‑White Gilded Sofa Furniture Suite\nFull set: sofa, armchairs, round coffee table, rich carved‑painted details, view whole‑space effect in short video.",
+          "tags": "#FrenchChateauHome #CompleteSuite #OrnateLiving #GildedDecor #VintageVibes"
+        },
+        {
+          "copy_cn": "大平层法式成套家具｜蓝白手绘鎏金沙发组合\n整套输出洛可可宫廷氛围，软包舒适，彩绘鎏金工艺，适配别墅大平层。",
+          "copy_en": "Penthouse French Complete Furniture, Blue‑White Hand‑Painted Gilded Sofa Set\nDeliver full Rococo palace vibe, comfy upholstery, painted‑gilded craftsmanship, for villa & penthouse.",
+          "tags": "#PenthouseDecor #MansionLiving #UniqueSofa #LuxurySuite #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "Space-Scenarios-2",
+      "image": "images/Space-Scenarios-2.jpg",
+      "product_name": "法式展厅全景1（餐厅书房展区）",
+      "copies": [
+        {
+          "copy_cn": "沉浸式法式展厅｜洛可可风全屋家具实景\n实拍展厅完整空间，餐桌、书柜、斗柜，一览法式古典家具整体搭配✨",
+          "copy_en": "Immersive French Furniture Showroom, Full Rococo‑Style Interior View\nReal‑shot showroom full space, dining table, bookcase, chest of drawers, overview complete French classic furniture matching✨",
+          "tags": "#FrenchShowroom #InteriorInspo #RococoHome #LuxuryShowroom #VintageInterior"
+        },
+        {
+          "copy_cn": "走进欧式古堡家｜法式古典家具展厅实拍\n拼花地板、鎏金吊灯，全套彩绘描金家具，感受贵族大宅的完整氛围。",
+          "copy_en": "Step Into European Chateau Home, Real Shot French Classic Furniture Showroom\nParquet flooring, gilded chandelier, full‑set painted‑gilded furniture, feel full aristocrat mansion ambiance.",
+          "tags": "#ChateauInterior #FurnitureGallery #OrnateHome #LuxuryLiving #HomeDecor"
+        },
+        {
+          "copy_cn": "全屋搭配参考｜法式宫廷家具展厅全景\n餐厅书房多品类家具同框，配色、摆件、软装，给大宅装修找灵感。",
+          "copy_en": "Whole‑House Matching Reference, Panoramic French Palace‑Style Furniture Showroom\nMulti‑category dining & study furniture in one frame, color scheme & decor props, get renovation inspiration for large residence.",
+          "tags": "#RenovationInspo #VillaDecor #FrenchLuxury #ShowroomTour #DecorGoal"
+        },
+        {
+          "copy_cn": "古典美学盛宴｜洛可可法式家具展厅空间\n从吊顶吊灯到每件柜体家具，整套复古法式设计，短视频浏览展厅。",
+          "copy_en": "Classic Aesthetic Feast, Rococo French Furniture Showroom Space\nFrom ceiling chandelier to every cabinet piece, full vintage French design, tour showroom via short video.",
+          "tags": "#InteriorTour #VintageShowroom #GildedFurniture #ArtHome #RococoDecor"
+        },
+        {
+          "copy_cn": "别墅装修必看｜法式古典家具展厅实景\n实拍真实展厅陈列，餐桌、陈列柜、书桌，直观感受家具摆场效果。",
+          "copy_en": "Must‑See For Villa Renovation, Real‑Scene French Classic Furniture Showroom\nReal showroom display shot, dining table, display cabinet, writing desk, visualize furniture layout effect.",
+          "tags": "#VillaRenovation #FurnitureInspo #FrenchChateau #LuxuryMansion #HomeVibes"
+        },
+        {
+          "copy_cn": "全套法式家具长什么样｜展厅全景实拍\n集合餐、书、会客区多款产品，彩绘鎏金工艺，一站式参考欧式复古家装。",
+          "copy_en": "What Full‑Set French Furniture Looks Like, Panoramic Showroom Real Shot\nCollect dining, study, lounge‑area pieces, painted‑gilded craft, one‑stop reference for European vintage home.",
+          "tags": "#CompleteHomeSet #EuropeanHomeDecor #FurnitureGallery #OrnateInterior #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "Space-Scenarios-3",
+      "image": "images/Space-Scenarios-3.jpg",
+      "product_name": "法式展厅全景2（卧室展区）",
+      "copies": [
+        {
+          "copy_cn": "法式宫廷卧室展厅｜洛可可卧室家具实景\n豪华大床、鎏金挂钟、展示柜，完整贵族卧室场景实拍✨",
+          "copy_en": "French Palace‑Style Bedroom Showroom, Real Rococo Bedroom Furniture Scene\nLuxury bed, gilded wall clock, display cabinet, real‑shot complete aristocrat bedroom scene✨",
+          "tags": "#FrenchBedroom #BedroomShowroom #RococoInterior #LuxuryBedroom #VintageInterior"
+        },
+        {
+          "copy_cn": "梦寐以求的古堡卧室｜法式家具展厅实拍\n鎏金大吊灯，彩绘大床，配套边柜立柜，还原欧式贵族主卧。",
+          "copy_en": "Dream‑Worthy Chateau Bedroom, Real‑Shot French Furniture Showroom\nGrand gilded chandelier, painted luxury bed, matching side & display cabinets, recreate European aristocrat master suite.",
+          "tags": "#ChateauBedroom #OrnateBedroom #AntiqueStyle #HomeDecor #ShowroomTour"
+        },
+        {
+          "copy_cn": "大别墅主卧参考｜法式古典卧室展厅全景\n床具、钟表、装饰柜全套陈列，软装摆件搭配，装修直接抄作业。",
+          "copy_en": "Villa Master‑Suite Reference, Panoramic French Classic Bedroom Showroom\nFull display: bed, clock, decor cabinets, soft furnishing collocation, copy the styling for renovation.",
+          "tags": "#VillaBedroom #RenovationIdeas #FrenchLuxury #DecorInspo #HomeStyling"
+        },
+        {
+          "copy_cn": "沉浸式看宫廷卧室｜洛可可卧室家具展厅\n拼花地板+复古挂画，整套描金彩绘卧室家具，短视频逛卧室展厅。",
+          "copy_en": "Immersive Palace‑Style Bedroom Tour, Rococo Bedroom Furniture Showroom\nParquet floor & vintage paintings, full‑set gilded‑painted bedroom furniture, tour bedroom showroom via short video.",
+          "tags": "#InteriorTourVibes #VintageBedroom #GildedDecor #ArtHome #RococoHome"
+        },
+        {
+          "copy_cn": "奢华法式主卧长这样｜展厅实景陈列\n大床、床头柜、装饰钟、陈列柜成套摆放，感受欧式卧室完整气场。",
+          "copy_en": "This Is What Luxury French Master Bedroom Looks Like, Real Showroom Display\nComplete arrangement: bed, nightstands, decor clock, display cabinet, feel full aura of European‑style bedroom.",
+          "tags": "#MasterBedGoals #FrenchChateauBedroom #OrnateFurniture #LuxuryMansion #VintageVibes"
+        },
+        {
+          "copy_cn": "欧式复古卧室全套搭配｜法式展厅实拍\n床体、配套柜类、灯具挂画一体化场景，适合别墅大宅卧室参考。",
+          "copy_en": "European Vintage Bedroom Full‑Set Matching, French Showroom Real Shot\nIntegrated scene: bed, matching cabinets, lamps & paintings, reference for villa large‑size bedroom.",
+          "tags": "#BedroomCompleteSet #EuropeanHome #FurnitureShowroom #MansionDecor #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "Space-Scenarios-4",
+      "image": "images/Space-Scenarios-4.jpg",
+      "product_name": "法式展厅全景3（客厅卧室混合展区）",
+      "copies": [
+        {
+          "copy_cn": "法式大宅全景展厅｜客厅卧室混合实景摆场\n沙发、茶几、梳妆台、大床同空间展示，完整欧式复古家具体验✨",
+          "copy_en": "Panoramic French Mansion Showroom, Mixed Living‑Bedroom Real Layout\nSofa, coffee table, vanity desk, bed displayed in same space, full European vintage furniture experience✨",
+          "tags": "#MansionShowroom #FrenchInterior #LivingBedroomMix #LuxuryShowroom #VintageInterior"
+        },
+        {
+          "copy_cn": "一整个欧式古堡家｜法式家具展厅实拍全景\n织锦挂毯，鎏金吊灯，成套沙发卧室家具，沉浸式贵族家居氛围。",
+          "copy_en": "Entire European Chateau‑Style Home, Panoramic Real‑Shot French Furniture Showroom\nTapestry wall hangings, gilded chandelier, full‑set sofa & bedroom furniture, immersive aristocrat home vibe.",
+          "tags": "#ChateauHome #TapestryDecor #OrnateInterior #LuxuryLiving #HomeDecor"
+        },
+        {
+          "copy_cn": "大宅装修灵感库｜法式展厅客厅卧室全景\n客卧多品类家具集合，挂毯、灯具、家具配色，给大户型装修找思路。",
+          "copy_en": "Large‑Residence Renovation Inspiration Bank, French Showroom Living‑Bedroom Panorama\nCollection of living & bedroom furniture, tapestries, lamps & furniture color scheme, get ideas for large‑space renovation.",
+          "tags": "#RenovationInspo #PenthouseDecor #FrenchLuxury #ShowroomVisit #DecorGoal"
+        },
+        {
+          "copy_cn": "洛可可完整家居场景｜法式展厅实拍空间\n从客厅沙发到卧室床具全部陈列，织锦挂毯烘托氛围，短视频云逛展厅。",
+          "copy_en": "Complete Rococo Home Scene, Real‑Shot French Showroom Space\nFull display from living‑room sofas to bedroom bed, tapestry wall art builds atmosphere, virtual showroom tour via short video.",
+          "tags": "#InteriorVirtualTour #VintageShowroom #GildedFurniture #TapestryArt #RococoDecor"
+        },
+        {
+          "copy_cn": "贵族家的客卧长什么样｜法式展厅全景\n沙发组、梳妆台、床具同场，彩绘鎏金全套产品，直观看摆场落地效果。",
+          "copy_en": "How Aristocrat’s Living & Bedroom Looks, French Showroom Panorama\nSofa set, vanity desk, bed in one scene, full painted‑gilded collection, visualize real layout effect.",
+          "tags": "#AristocratHome #FurnitureInspo #FrenchChateau #LuxuryMansion #HomeVibes"
+        },
+        {
+          "copy_cn": "别墅全屋家具参考｜客卧一体法式展厅实拍\n客厅、卧室家具集中展示，挂毯软装搭配，欧式复古大宅装修参考范本。",
+          "copy_en": "Villa Whole‑House Furniture Reference, Living‑Bedroom Integrated French Showroom Real Shot\nCentral display of living & bedroom furniture with tapestry soft decor, reference template for European vintage mansion renovation.",
+          "tags": "#WholeHouseRenovation #EuropeanMansion #FurnitureGallery #OrnateHome #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "Space-Scenarios-5",
+      "image": "images/Space-Scenarios-5.jpg",
+      "product_name": "法式展厅全景4（餐厅卧室混合展区）",
+      "copies": [
+        {
+          "copy_cn": "法式别墅展厅｜餐厅卧室一体实景摆场\n圆形餐桌、餐椅、豪华大床同框，孔雀挂画烘托，完整古典家居场景✨",
+          "copy_en": "French Villa Showroom, Integrated Dining‑Bedroom Real Layout\nRound dining table & chairs, luxury bed in one frame, peacock wall paintings as accent, complete classic home scene✨",
+          "tags": "#VillaShowroom #DiningBedroomMix #FrenchClassicHome #LuxuryInterior #VintageInterior"
+        },
+        {
+          "copy_cn": "复刻欧洲贵族宅邸｜法式展厅全景实拍\n拼花地板，鎏金吊灯，圆餐桌+卧室大床，孔雀主题挂画，氛围感拉满。",
+          "copy_en": "Recreate European Aristocrat Manor, Panoramic Real‑Shot French Showroom\nParquet flooring, gilded chandelier, round dining set + luxury bed, peacock‑theme wall art, full immersive ambiance.",
+          "tags": "#ManorHome #PeacockDecor #OrnateSpace #LuxuryLiving #HomeDecor"
+        },
+        {
+          "copy_cn": "大平层别墅装修参考｜法式餐卧展厅全景\n餐厅、卧室家具集中陈列，墙面挂画软装搭配，一站式大宅搭配灵感。",
+          "copy_en": "Penthouse & Villa Renovation Reference, Panoramic French Dining‑Bedroom Showroom\nCentral display for dining & bedroom furniture, wall‑art soft furnishing collocation, one‑stop large‑residence styling inspiration.",
+          "tags": "#PenthouseRenovation #VillaInspo #FrenchLuxury #ShowroomTour #DecorInspo"
+        },
+        {
+          "copy_cn": "古典法式完整家｜餐卧混合展厅短视频视角\n圆桌餐区、主卧区无缝呈现，孔雀装饰画，整套描金彩绘家具，云逛展厅。",
+          "copy_en": "Complete Classic French‑Style Home, Short‑Video View Of Mixed Dining‑Bedroom Showroom\nRound‑table dining area & master‑bed area seamlessly shown, peacock wall paintings, full gilded‑painted furniture, virtual showroom tour.",
+          "tags": "#VirtualInteriorTour #VintageShowroom #GildedFurniture #PeacockArt #RococoHome"
+        },
+        {
+          "copy_cn": "贵族宅邸餐卧实景｜法式展厅全景实拍\n圆形餐桌椅、奢华大床，配套边柜摆件，直观感受古典家具落地效果。",
+          "copy_en": "Aristocrat Manor Dining‑Bedroom Real Scene, Panoramic French Showroom Real Shot\nRound dining set, luxury bed, matching side cabinets & ornaments, directly visualize classic furniture real‑layout effect.",
+          "tags": "#ManorInterior #FurnitureLayout #FrenchChateau #LuxuryMansion #VintageVibes"
+        },
+        {
+          "copy_cn": "欧式复古大宅范本｜餐卧一体法式展厅\n餐厅卧室成套家具，孔雀挂画、鎏金吊灯，适合别墅、大平层家装参考。",
+          "copy_en": "European Vintage Mansion Template, Dining‑Bedroom Integrated French Showroom\nFull‑set dining & bedroom furniture, peacock wall art, gilded chandelier, great reference for villa & penthouse home renovation.",
+          "tags": "#MansionTemplate #EuropeanHomeDecor #CompleteFurnitureSet #OrnateDecor #HomeStatement"
+        }
+      ]
+    },
+    {
+      "model": "LDC-1511-1022",
+      "image": "images/LDC-1511-1022.jpg",
+      "product_name": "书本造型彩绘多斗柜",
+      "copies": [
+        {
+          "copy_cn": "艺术感拉满｜书本造型彩绘多斗柜\n仿真书本柜体，手绘花鸟纹样，大容量抽屉收纳，复古氛围感直接拉满✨",
+          "copy_en": "Book‑Shaped Hand‑Painted Chest Of Drawers\nFaux‑book cabinet with hand‑painted bird‑flower art, plenty of drawers for storage, elevate vintage home vibe✨",
+          "tags": "#ChinoiserieFurniture #VintageCabinet #HandpaintedFurniture #HomeDecorLuxury #AntiqueStyleHome"
+        },
+        {
+          "copy_cn": "一眼沦陷的法式书本斗柜\n打破常规柜体设计，花鸟手绘工艺，优雅复古，实用收纳兼具艺术陈列。",
+          "copy_en": "Stunning French Book‑Style Chest\nUnique faux‑book design, delicate hand‑painted bird‑flower details, blend practical storage & artistic display.",
+          "tags": "#ChinoiserieFurniture #VintageCabinet #HandpaintedFurniture #HomeDecorLuxury #AntiqueStyleHome"
+        },
+        {
+          "copy_cn": "复古艺术家具｜彩绘书本斗柜\n把艺术搬进家里，多层抽屉储物，彩绘鎏金细节，居家吸睛单品。",
+          "copy_en": "Vintage Art Furniture Painted Book Chest\nBring art to your home, multi‑drawer storage, gorgeous painted & gilded details, eye‑catching home statement piece.",
+          "tags": "#ChinoiserieFurniture #VintageCabinet #HandpaintedFurniture #HomeDecorLuxury #AntiqueStyleHome"
+        },
+        {
+          "copy_cn": "小众高级｜书本造型装饰收纳柜\n创意书本外观，手绘花鸟彩饰，多抽屉分区收纳，提升空间格调。",
+          "copy_en": "Unique Luxury Book‑Look Storage Cabinet\nCreative faux‑book silhouette, hand‑painted floral‑bird decor, divided multi‑drawer storage, upgrade your interior style.",
+          "tags": "#ChinoiserieFurniture #VintageCabinet #HandpaintedFurniture #HomeDecorLuxury #AntiqueStyleHome"
+        },
+        {
+          "copy_cn": "法式奇趣｜彩绘书本多斗储物柜\n趣味书本柜体造型，精致手绘纹饰，大容量收纳，复古豪宅氛围感。",
+          "copy_en": "Whimsical French Painted Book Storage Chest\nPlayful book‑shape structure, fine hand‑painted ornaments, large‑capacity storage for vintage luxury interiors.",
+          "tags": "#ChinoiserieFurniture #VintageCabinet #HandpaintedFurniture #HomeDecorLuxury #AntiqueStyleHome"
+        },
+        {
+          "copy_cn": "收藏级彩绘书本斗柜\n手工彩绘花鸟，仿书本视觉设计，多斗收纳，既是家具也是家居艺术品。",
+          "copy_en": "Collectible Hand‑Painted Book‑Style Chest\nArtisan hand‑painted bird‑flower patterns, faux‑book visual effect, multi‑drawer storage, furniture as home artwork.",
+          "tags": "#ChinoiserieFurniture #VintageCabinet #HandpaintedFurniture #HomeDecorLuxury #AntiqueStyleHome"
+        }
+      ]
+    },
+    {
+      "model": "LD-2108-2019",
+      "image": "images/LD-2108-2019.jpg",
+      "product_name": "法式洛可可蓝金双人沙发",
+      "copies": [
+        {
+          "copy_cn": "洛可可蓝金雕花双人沙发\n重工描金雕花，软包雾霾蓝皮布结合，浮雕花卉手绘，宫廷氛围感拉满✨",
+          "copy_en": "Rococo Blue‑Gilded Carved Loveseat Sofa\nHeavy‑duty gilded carving, mist‑blue mixed leather‑fabric upholstery, embossed floral hand‑paint, ultimate palace‑style vibe✨",
+          "tags": "#RococoFurniture #LuxurySofa #FrenchHomeDecor #OrnateFurniture #ClassicInterior"
+        },
+        {
+          "copy_cn": "宫廷风｜蓝金法式双人沙发\n洛可可经典曲线，鎏金木雕彩绘，饱满软包，豪宅客厅氛围感担当。",
+          "copy_en": "Palace‑Style Blue‑Gold French Loveseat\nClassic Rococo curved silhouette, gilded painted wood‑carving, plush cushioning, statement piece for luxury living room.",
+          "tags": "#RococoFurniture #LuxurySofa #FrenchHomeDecor #OrnateFurniture #ClassicInterior"
+        },
+        {
+          "copy_cn": "复古华丽蓝金雕花双人沙发\n手工雕花描金，撞色蓝调软包，搭配精美抱枕，复刻欧式贵族居家格调。",
+          "copy_en": "Gorgeous Vintage Blue‑Gilded Carved Loveseat\nHand‑carved & gilded frame, striking blue upholstery, matched luxury throw pillows, recreate European noble home aesthetic.",
+          "tags": "#RococoFurniture #LuxurySofa #FrenchHomeDecor #OrnateFurniture #ClassicInterior"
+        },
+        {
+          "copy_cn": "法式大宅首选｜洛可可双人沙发\n繁复花卉木雕，鎏金描边工艺，蓝调舒适软包，颜值与坐感双在线。",
+          "copy_en": "Must‑have Rococo Loveseat For French Mansion\nElaborate floral wood‑carving, gilded trim craft, cozy blue upholstery, perfect balance of beauty & seating comfort.",
+          "tags": "#RococoFurniture #LuxurySofa #FrenchHomeDecor #OrnateFurniture #ClassicInterior"
+        },
+        {
+          "copy_cn": "高级感拉满｜蓝金宫廷双人沙发\n柔美洛可可轮廓，彩绘描金框架，拼色布艺皮艺软包，客厅吸睛C位。",
+          "copy_en": "High‑End Blue‑Gold Palace‑Style Loveseat\nGraceful Rococo outline, painted gilded frame, mixed‑material upholstery, eye‑catching centerpiece for living space.",
+          "tags": "#RococoFurniture #LuxurySofa #FrenchHomeDecor #OrnateFurniture #ClassicInterior"
+        },
+        {
+          "copy_cn": "复刻欧式古堡｜雕花双人沙发\n纯手工木雕描金，雾霾蓝软包质感，整套配饰抱枕，沉浸式复古宫廷体验。",
+          "copy_en": "European Castle Inspired Carved Loveseat\nArtisan hand‑carved gilded woodwork, premium mist‑blue upholstery, complete throw pillows, immersive vintage palace feeling.",
+          "tags": "#RococoFurniture #LuxurySofa #FrenchHomeDecor #OrnateFurniture #ClassicInterior"
+        }
+      ]
     }
   ]
 };

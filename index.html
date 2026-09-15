@@ -186,6 +186,8 @@ function render() {
     return matchTag && matchQ;
   });
 
+  filtered.sort((a, b) => b.model.localeCompare(a.model));
+
   document.getElementById('stats').textContent = `共 ${products.length} 个产品 · ${filtered.length} 个匹配 · ${products.reduce((s,p)=>s+p.copies.length,0)} 条文案`;
 
   if (!filtered.length) { document.getElementById('grid').innerHTML = '<div class="empty">😅 没找到相关产品，试试其他关键词</div>'; return; }
