@@ -1577,7 +1577,7 @@ const CATALOG_DATA = {
     },
     {
       "model": "LD-2312-2216",
-      "image": "images/LD-2312-2216.jpg",
+      "image": "images/LD-2312-2216.JPG",
       "product_name": "浅蓝花鸟彩绘储物宝箱",
       "copies": [
         {
@@ -2169,7 +2169,7 @@ const CATALOG_DATA = {
     },
     {
       "model": "LD-2210-2143",
-      "image": "images/LD-2210-2143.jpg",
+      "image": "images/LD-2210-2143.JPG",
       "product_name": "墨绿鎏金山水彩绘餐边柜",
       "copies": [
         {
@@ -2576,7 +2576,7 @@ const CATALOG_DATA = {
     },
     {
       "model": "LD-2503-2372",
-      "image": "images/LD-2503-2372.jpg",
+      "image": "images/LD-2503-2372.JPG",
       "product_name": "鎏金编织边框装饰摆盘",
       "copies": [
         {
